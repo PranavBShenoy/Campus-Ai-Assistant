@@ -1,0 +1,12 @@
+[
+  {"question": "What is the minimum CGPA required for industry internship?", "category": "direct_academic", "expected_has_answer": true},
+  {"question": "What percentage of attendance is required to appear in exams?", "category": "direct_academic", "expected_has_answer": true},
+  {"question": "What are the passing marks for theory subjects?", "category": "direct_academic", "expected_has_answer": true},
+  {"question": "What happens if my CGPA requirement for internship?", "category": "follow_up", "expected_has_answer": true},
+  {"question": "How is CGPA calculated?", "category": "direct_academic", "expected_has_answer": true},
+  {"question": "What are the library borrowing limits?", "category": "document_answerable", "expected_has_answer": true},
+  {"question": "What is the fee structure for the MBA program?", "category": "not_in_knowledge_base", "expected_has_answer": false},
+  {"question": "How do I apply for a scholarship and what is my internship eligibility?", "category": "multi_step", "expected_has_answer": true},
+  {"question": "What is the grade point for O grade and what is the minimum CGPA to pass?", "category": "multi_step", "expected_has_answer": true},
+  {"question": "What is the best programming language to learn in 2024?", "category": "out_of_scope", "expected_has_answer": false}
+]

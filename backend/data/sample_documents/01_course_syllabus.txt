@@ -1,0 +1,484 @@
+[SAMPLE DOCUMENT - FOR DEMONSTRATION PURPOSES ONLY]
+
+================================================================================
+INSTITUTE OF ADVANCED TECHNOLOGY AND SCIENCE
+DEPARTMENT OF COMPUTER SCIENCE AND ENGINEERING
+BACHELOR OF TECHNOLOGY (B.TECH) - DEGREE CURRICULUM & DETAILED SYLLABI
+SEMESTERS 5 TO 8 (ACADEMIC REGULATION R-2024)
+[SAMPLE DOCUMENT - FOR DEMONSTRATION PURPOSES ONLY]
+================================================================================
+
+1. CURRICULUM OVERVIEW & CREDIT ARCHITECTURE
+
+The Bachelor of Technology program in Computer Science and Engineering offers a rigorous four-year undergraduate curriculum structured across eight semesters. This document specifies the comprehensive curriculum structure, subject syllabi, contact hours, credit distribution, and evaluation frameworks for the upper-division academic years (Semester 5 through Semester 8).
+
+Contact Scheme Notation:
+- L: Lecture hours per week (1 contact hour = 1 credit)
+- T: Tutorial hours per week (1 contact hour = 1 credit)
+- P: Practical/Laboratory hours per week (2 contact hours = 1 credit)
+- C: Total academic credits awarded upon successful completion
+
+Evaluation Weightage Distribution:
+- Continuous Internal Assessment (CIA): 30% to 50%
+- End Semester Examination (ESE): 50% to 70%
+- Standard Theory Course: 30 Marks CIA + 70 Marks ESE = 100 Total Marks
+- Practical / Laboratory Course: 50 Marks CIA + 50 Marks ESE = 100 Total Marks
+
+--------------------------------------------------------------------------------
+2. SEMESTER 5 CURRICULUM & DETAILED SYLLABI
+--------------------------------------------------------------------------------
+
+COURSE CODE: CS501
+COURSE TITLE: Advanced Data Structures and Algorithm Analysis
+CONTACT HOURS: 3-1-0 (Lecture: 3 hrs, Tutorial: 1 hr, Practical: 0 hrs)
+CREDITS: 4
+PREREQUISITES: Programming Fundamentals in C/C++, Basic Discrete Mathematics
+
+Course Description:
+This course develops advanced algorithmic design thinking and rigorous complexity analysis. Students examine balanced search structures, disjoint sets, graph algorithms, divide-and-conquer, dynamic programming, greedy strategies, branch-and-bound paradigms, and computational intractability.
+
+Unit I: Asymptotic Analysis and Balanced Search Trees (8 Hours)
+- Asymptotic notation: Big-O, Little-o, Big-Omega, Big-Theta, and amortized complexity analysis.
+- Review of binary search trees; self-balancing trees: AVL trees (single and double rotations, insertion, deletion).
+- Red-Black trees: properties, color invariants, left and right rotations, insertion and deletion cases.
+- Multi-way search trees: 2-3 trees, 2-3-4 trees, and B-trees (operations, splitting, merging, disk-based structures).
+- Splay trees and self-adjusting search mechanisms.
+
+Unit II: Priority Queues, Disjoint Sets, and String Matching (9 Hours)
+- Priority Queues: Binomial heaps, Fibonacci heaps, and amortized running times for decrease-key operations.
+- Disjoint-set data structures: Union-Find algorithms, union-by-rank, and path compression heuristics.
+- String matching algorithms: Naive pattern matching, Rabin-Karp fingerprinting algorithm.
+- Knuth-Morris-Pratt (KMP) algorithm with prefix function construction; Boyer-Moore algorithm.
+- Tries, Suffix Tries, and Suffix Trees with applications in biological sequence alignment.
+
+Unit III: Dynamic Programming and Greedy Algorithms (9 Hours)
+- Dynamic programming design strategy: optimal substructure and overlapping subproblems.
+- Classic problems: Matrix chain multiplication, 0/1 Knapsack, Longest Common Subsequence (LCS).
+- Floyd-Warshall all-pairs shortest paths algorithm and transitive closure.
+- Greedy paradigms: Elements of greedy strategy, matroid theory basics.
+- Fractional knapsack problem, Huffman coding, minimum spanning trees: Kruskal's algorithm and Prim's algorithm.
+
+Unit IV: Graph Algorithms and Network Flow (10 Hours)
+- Graph representations; Depth-First Search (DFS), Breadth-First Search (BFS), topological sorting, strongly connected components (Tarjan's and Kosaraju's algorithms).
+- Single-source shortest paths: Dijkstra's algorithm with priority queues, Bellman-Ford algorithm with negative cycle detection.
+- Network flow theory: Flow networks, cut capacity, Ford-Fulkerson method, Edmonds-Karp algorithm, and max-flow min-cut theorem.
+- Push-relabel maximum flow algorithm and bipartite matching applications.
+
+Unit V: Computational Complexity and NP-Completeness (8 Hours)
+- Tractable versus intractable problems; Class P, Class NP, and polynomial-time verifiability.
+- Polynomial-time reductions; NP-Hard and NP-Complete problem categories; Cook-Levin theorem overview.
+- Classic NP-Complete reductions: 3-SAT, Clique, Vertex Cover, Hamiltonian Cycle, Traveling Salesperson Problem (TSP).
+- Approximation algorithms: Constant-factor approximation for Vertex Cover and Metric TSP; introduction to randomized algorithms.
+
+Assessment Breakdown:
+- Internal Assessment: 30 Marks (Mid-Term Exam: 15 marks, Continuous Quizzes: 5 marks, Algorithmic Problem Sets: 10 marks)
+- External Assessment: 70 Marks (3-Hour End Semester Examination)
+
+Prescribed Textbooks and Reference Books:
+1. Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, and Clifford Stein, "Introduction to Algorithms", 4th Edition, MIT Press, 2022.
+2. Jon Kleinberg and Eva Tardos, "Algorithm Design", 1st Edition, Pearson Education, 2014.
+3. Ellis Horowitz, Sartaj Sahni, and Sanguthevar Rajasekaran, "Fundamentals of Computer Algorithms", 2nd Edition, Universities Press, 2008.
+
+--------------------------------------------------------------------------------
+
+COURSE CODE: CS502
+COURSE TITLE: Database Management Systems
+CONTACT HOURS: 3-0-0 (Lecture: 3 hrs, Tutorial: 0 hrs, Practical: 0 hrs)
+CREDITS: 3
+PREREQUISITES: Data Structures, Discrete Mathematical Structures
+
+Course Description:
+A foundational study of relational database engines, relational algebra, SQL, database normalization, storage indexing, transaction isolation levels, concurrency protocols, recovery mechanisms, and NoSQL architectures.
+
+Unit I: Relational Architecture and Conceptual Modeling (8 Hours)
+- Purpose of database management systems; data abstraction, data independence, system architecture (3-schema ANSI/SPARC).
+- Entity-Relationship (ER) model: entities, attributes, relationships, weak entity sets, cardinalities, generalization and specialization.
+- Enhanced ER (EER) modeling to relational schema mapping.
+- Relational model fundamentals: domains, tuples, relations, integrity constraints (entity, referential, domain, enterprise).
+- Relational algebra: selection, projection, set operations, Cartesian product, joins (theta, equijoin, natural, outer joins), division.
+
+Unit II: Relational Query Languages and Normalization Theory (10 Hours)
+- Structured Query Language (SQL): DDL, DML, DCL, and TCL commands.
+- Complex nested queries, correlated subqueries, set operations, window functions, views, triggers, and stored procedures.
+- Relational calculus: Tuple relational calculus (TRC) and Domain relational calculus (DRC).
+- Functional dependencies: Armstrong's axioms, closure of attribute sets, minimal cover.
+- Normalization forms: First Normal Form (1NF), Second Normal Form (2NF), Third Normal Form (3NF), Boyce-Codd Normal Form (BCNF).
+- Multi-valued dependencies and Fourth Normal Form (4NF); lossless-join and dependency-preserving decompositions.
+
+Unit III: Physical Storage Organization and Indexing (8 Hours)
+- File organization strategies: heap files, sorted files, hashed files.
+- Buffer management techniques; page replacement policies in DBMS.
+- Indexing architectures: primary indices, clustering indices, secondary indices, dense versus sparse indices.
+- B-trees and B+ trees: search, insertion, and deletion algorithms; dynamic leaf node splits.
+- Static hashing versus extendible and linear dynamic hashing techniques.
+
+Unit IV: Transaction Processing and Concurrency Control (9 Hours)
+- Transaction concept: ACID properties (Atomicity, Consistency, Isolation, Durability); transaction state diagrams.
+- Schedules: serial, serializable, conflict-serializability, view-serializability, precedence graphs.
+- Recoverability: recoverable schedules, cascadeless schedules, strict schedules.
+- Concurrency control mechanisms: lock-based protocols, two-phase locking (2PL: basic, conservative, strict, rigorous), lock conversions.
+- Deadlock detection, prevention, and recovery mechanisms; timestamp-based ordering protocols, multiversion concurrency control (MVCC).
+
+Unit V: Crash Recovery and Modern NoSQL Systems (9 Hours)
+- Failure classification; storage structure; log-based recovery mechanisms: deferred database modification, immediate database modification.
+- Checkpointing techniques; ARIES recovery algorithm (Analysis, Redo, Undo phases).
+- Distributed database fundamentals: CAP theorem, PACELC theorem, BASE consistency model.
+- Introduction to NoSQL paradigms: Key-value stores (Redis), Document stores (MongoDB), Column-family stores (Apache Cassandra), Graph databases (Neo4j).
+
+Assessment Breakdown:
+- Internal Assessment: 30 Marks (Mid-Term Exam: 15 marks, Assignments/SQL Case Studies: 10 marks, Surprise Quizzes: 5 marks)
+- External Assessment: 70 Marks (3-Hour End Semester Examination)
+
+Prescribed Textbooks and Reference Books:
+1. Abraham Silberschatz, Henry F. Korth, and S. Sudarshan, "Database System Concepts", 7th Edition, McGraw-Hill, 2020.
+2. Raghu Ramakrishnan and Johannes Gehrke, "Database Management Systems", 3rd Edition, McGraw-Hill, 2014.
+3. Ramez Elmasri and Shamkant B. Navathe, "Fundamentals of Database Systems", 7th Edition, Pearson, 2016.
+
+--------------------------------------------------------------------------------
+
+COURSE CODE: CS503
+COURSE TITLE: Operating Systems Principles
+CONTACT HOURS: 3-0-0 (Lecture: 3 hrs, Tutorial: 0 hrs, Practical: 0 hrs)
+CREDITS: 3
+PREREQUISITES: Computer Organization and Architecture, C Programming
+
+Course Description:
+Covers the core mechanisms of modern multi-programmed operating systems: process virtualization, CPU scheduling algorithms, synchronization primitives, deadlocks, virtual memory management, file systems, and storage I/O.
+
+Unit I: Operating System Architecture and Process Management (8 Hours)
+- Evolution of operating systems; system calls and user/kernel dual-mode hardware protection; OS structures: monolithic, layered, microkernel, modular.
+- Process concept: Process Control Block (PCB), process state transitions, context switching mechanics.
+- Process scheduling queues, schedulers (long-term, short-term, medium-term).
+- Inter-Process Communication (IPC): shared memory and message passing architectures (pipes, message queues, sockets).
+- Threads and concurrency: user-level versus kernel-level threads, multi-threading models, pthread library usage.
+
+Unit II: CPU Scheduling and Synchronization Primitives (9 Hours)
+- CPU scheduling criteria; preemptive versus non-preemptive scheduling.
+- Scheduling algorithms: First-Come First-Served (FCFS), Shortest Job First (SJF), Shortest Remaining Time First (SRTF), Round Robin (RR), Priority Scheduling, Multi-Level Feedback Queue (MLFQ).
+- Critical section problem; Peterson's solution; hardware synchronization support (Test-and-Set, Compare-and-Swap).
+- Synchronization primitives: Semaphores (counting and binary), Mutex locks, Monitors.
+- Classical synchronization problems: Bounded-Buffer (Producer-Consumer), Readers-Writers, Dining Philosophers.
+
+Unit III: Deadlock Handling Paradigms (8 Hours)
+- Deadlock characterization: four necessary conditions (Mutual Exclusion, Hold and Wait, No Preemption, Circular Wait).
+- Resource-Allocation Graph (RAG) analysis.
+- Deadlock prevention strategies: negating necessary conditions.
+- Deadlock avoidance strategies: safe states, Banker's Algorithm for single and multiple resource instances.
+- Deadlock detection: wait-for graphs, cycle detection algorithms; recovery from deadlock: process termination and resource preemption.
+
+Unit IV: Memory Management and Virtual Memory (10 Hours)
+- Logical versus physical address spaces; memory hardware protection (base and limit registers).
+- Contiguous memory allocation: fixed partitioning, dynamic partitioning, allocation algorithms (First-Fit, Best-Fit, Worst-Fit), fragmentation.
+- Paging: page tables, Translation Lookaside Buffers (TLB), effective memory access time, multi-level paging, inverted page tables.
+- Segmentation and combined segmentation with paging.
+- Virtual memory concepts: demand paging, page fault handling routine.
+- Page replacement algorithms: FIFO, Optimal (OPT), Least Recently Used (LRU), Second-Chance (Clock), Counting-based.
+- Thrashing causes and remedies; Working-Set Model, Page-Fault Frequency strategy.
+
+Unit V: Storage Systems, File Organizations, and Protection (9 Hours)
+- Mass storage structure: Magnetic disks, Solid State Drives (SSDs), disk scheduling (FCFS, SSTF, SCAN, C-SCAN, LOOK).
+- File concept: attributes, file operations, access methods (sequential, direct, indexed).
+- Directory structures: single-level, two-level, tree-structured, acyclic-graph directories.
+- File system implementation: allocation methods (contiguous, linked, indexed with inode architecture), free-space management (bit vectors, linked lists).
+- Protection and security: access control matrices, access control lists (ACL), capabilities, authentication mechanisms.
+
+Assessment Breakdown:
+- Internal Assessment: 30 Marks (Mid-Term Exam: 15 marks, Kernel/Process Programming Assignments: 10 marks, Quizzes: 5 marks)
+- External Assessment: 70 Marks (3-Hour End Semester Examination)
+
+Prescribed Textbooks and Reference Books:
+1. Abraham Silberschatz, Peter Baer Galvin, and Greg Gagne, "Operating System Concepts", 10th Edition, John Wiley & Sons, 2018.
+2. William Stallings, "Operating Systems: Internals and Design Principles", 9th Edition, Pearson, 2018.
+3. Andrew S. Tanenbaum and Herbert Bos, "Modern Operating Systems", 4th Edition, Pearson Education, 2015.
+
+--------------------------------------------------------------------------------
+
+COURSE CODE: CS504
+COURSE TITLE: Software Engineering and Agile Methodologies
+CONTACT HOURS: 3-0-0 (Lecture: 3 hrs, Tutorial: 0 hrs, Practical: 0 hrs)
+CREDITS: 3
+PREREQUISITES: Object-Oriented Programming
+
+Unit I: Software Process Frameworks (8 Hours)
+- Nature of software; software engineering discipline; Generic process framework: Communication, Planning, Modeling, Construction, Deployment.
+- Prescriptive models: Waterfall, Incremental, Evolutionary (Prototyping, Spiral).
+- Unified Process (UP) phases. Agile principles; Agile Manifesto values; Scrum framework: roles, artifacts, ceremonies; Kanban boards; Extreme Programming (XP) practices.
+
+Unit II: Requirements Engineering and UML Modeling (9 Hours)
+- Requirements elicitation, analysis, specification, and validation; Functional versus Non-Functional Requirements.
+- Software Requirement Specification (SRS) documentation standard (IEEE 830 / ISO/IEC/IEEE 29148).
+- Object-Oriented Analysis and Design (OOAD) using UML 2.5: Use Case diagrams, Class diagrams, Sequence diagrams, Activity diagrams, State Machine diagrams.
+
+Unit III: Software Architectural and Detailed Design (9 Hours)
+- Design concepts: abstraction, modularity, information hiding, functional independence, cohesion, and coupling.
+- Architectural patterns: Model-View-Controller (MVC), Layered, Microservices, Event-Driven architectures.
+- Object-oriented design principles (SOLID); Creational, Structural, and Behavioral design patterns (Factory, Singleton, Adapter, Observer, Strategy).
+
+Unit IV: Software Verification, Validation, and Testing (9 Hours)
+- Software testing taxonomy: verification vs validation, error, fault, failure.
+- Black-box testing: Equivalence Class Partitioning, Boundary Value Analysis, Cause-Effect graphing.
+- White-box testing: Basis path testing, cyclomatic complexity calculation, control structure testing (statement, branch, condition coverage).
+- Testing levels: Unit testing, Integration testing (top-down, bottom-up), System testing, Acceptance testing; Test-Driven Development (TDD).
+
+Unit V: Software Project Management and Quality Assurance (9 Hours)
+- Project metrics, estimation techniques: COCOMO II model, Function Point analysis.
+- Risk management: reactive vs proactive strategies, risk identification, assessment, mitigation, monitoring, and management (RMMM).
+- Software Quality Assurance (SQA): McCall's quality factors, ISO 9001 standards, SEI Capability Maturity Model Integration (CMMI).
+- DevSecOps pipelines, automated Continuous Integration and Continuous Deployment (CI/CD) workflows.
+
+Assessment Breakdown:
+- Internal Assessment: 30 Marks (Mid-Term: 15 marks, Term Project SRS & UML: 10 marks, Quizzes: 5 marks)
+- External Assessment: 70 Marks (3-Hour End Semester Examination)
+
+Prescribed Textbooks:
+1. Roger S. Pressman and Bruce R. Maxim, "Software Engineering: A Practitioner's Approach", 9th Edition, McGraw-Hill, 2020.
+2. Ian Sommerville, "Software Engineering", 10th Edition, Pearson, 2017.
+
+--------------------------------------------------------------------------------
+SEMESTER 5 LABORATORY COURSES:
+- CS511 Database Management Systems Laboratory (0-0-3, 1.5 Credits, 50 CIA + 50 ESE)
+- CS512 Operating Systems and System Programming Laboratory (0-0-3, 1.5 Credits, 50 CIA + 50 ESE)
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+3. SEMESTER 6 CURRICULUM & DETAILED SYLLABI
+--------------------------------------------------------------------------------
+
+COURSE CODE: CS601
+COURSE TITLE: Computer Networks
+CONTACT HOURS: 3-0-0 (Lecture: 3 hrs, Tutorial: 0 hrs, Practical: 0 hrs)
+CREDITS: 3
+PREREQUISITES: Operating Systems, Probability and Data Structures
+
+Unit I: Network Architecture and Physical Layer Fundamentals (8 Hours)
+- Computer network topologies, switching paradigms (circuit switching, packet switching, virtual circuit networks).
+- Reference models: OSI 7-layer architecture, TCP/IP protocol suite comparison.
+- Physical layer transmission media (guided and unguided); Nyquist theorem and Shannon channel capacity theorem; multiplexing (FDM, TDM, WDM).
+
+Unit II: Data Link Layer Protocols and Medium Access Control (10 Hours)
+- Framing techniques; error detection and correction: Parity, Checksum, CRC-32, Hamming codes.
+- Flow control protocols: Stop-and-Wait ARQ, Go-Back-N ARQ, Selective Repeat ARQ.
+- Medium Access Control (MAC) sublayer: Random access protocols: Pure ALOHA, Slotted ALOHA, CSMA, CSMA/CD, CSMA/CA.
+- IEEE 802.3 Ethernet standards; IEEE 802.11 Wireless LAN architecture and framing.
+
+Unit III: Network Layer Routing and Addressing (10 Hours)
+- Virtual circuit and datagram networks; IPv4 addressing: Classful addressing, Classless Inter-Domain Routing (CIDR), subnetting, supernetting.
+- Internet Protocol version 4 (IPv4) header format; Address Resolution Protocol (ARP), Dynamic Host Configuration Protocol (DHCP), ICMP.
+- Routing algorithms: Distance Vector Routing (Bellman-Ford algorithm, count-to-infinity problem), Link State Routing (Dijkstra's algorithm), Hierarchical routing.
+- Interior routing protocols (RIP, OSPF); Exterior gateway routing (BGP); transition to IPv6 protocol architecture.
+
+Unit IV: Transport Layer Protocols and Congestion Management (9 Hours)
+- Transport layer services: multiplexing and demultiplexing, port addressing.
+- User Datagram Protocol (UDP): header structure, checksum.
+- Transmission Control Protocol (TCP): segment structure, three-way handshake connection establishment, teardown, sliding window flow control.
+- TCP Congestion control: AIMD algorithm, slow start, congestion avoidance, fast retransmit, fast recovery, TCP Tahoe vs Reno.
+
+Unit V: Application Layer Protocols and Network Services (7 Hours)
+- Client-Server paradigm vs Peer-to-Peer architecture.
+- Domain Name System (DNS): hierarchy, resource records, name resolution process.
+- HyperText Transfer Protocol (HTTP/1.1, HTTP/2, HTTP/3): methods, status codes, persistent connections, caching, RESTful APIs.
+- Electronic mail: SMTP, POP3, IMAP protocols; File Transfer Protocol (FTP); Secure Socket Layer (TLS/SSL) overview.
+
+Assessment Breakdown:
+- Internal Assessment: 30 Marks; External Assessment: 70 Marks.
+Textbooks:
+1. Andrew S. Tanenbaum, Nick Feamster, and David J. Wetherall, "Computer Networks", 6th Edition, Pearson, 2021.
+2. James F. Kurose and Keith W. Ross, "Computer Networking: A Top-Down Approach", 8th Edition, Pearson, 2021.
+
+--------------------------------------------------------------------------------
+
+COURSE CODE: CS602
+COURSE TITLE: Machine Learning
+CONTACT HOURS: 3-1-0 (Lecture: 3 hrs, Tutorial: 1 hr, Practical: 0 hrs)
+CREDITS: 4
+PREREQUISITES: Linear Algebra, Multivariate Calculus, Probability & Statistics, Python
+
+Unit I: Foundations of Machine Learning and Supervised Regression (9 Hours)
+- Taxonomy of machine learning: Supervised, Unsupervised, Semi-supervised, Reinforcement Learning.
+- Supervised learning setup: hypothesis spaces, loss functions, empirical risk minimization.
+- Linear Regression: ordinary least squares, closed-form normal equations, gradient descent (batch, mini-batch, stochastic).
+- Polynomial regression; Overfitting and Underfitting; Bias-Variance tradeoff.
+- Regularization methods: L1 regularization (Lasso), L2 regularization (Ridge), and ElasticNet.
+
+Unit II: Supervised Classification Algorithms (10 Hours)
+- Logistic Regression: sigmoid activation, log-loss (cross-entropy), multi-class softmax regression.
+- Generative vs discriminative models; Naive Bayes classifier: Bayes theorem, conditional independence assumption, Gaussian Naive Bayes.
+- Linear Discriminant Analysis (LDA).
+- Support Vector Machines (SVM): maximal margin hyperplane, soft-margin SVM with slack variables, dual formulation, Mercer's condition, kernel trick (linear, polynomial, RBF, sigmoid kernels).
+- K-Nearest Neighbors (KNN): distance metrics, curse of dimensionality.
+
+Unit III: Tree-Based Models and Ensemble Learning (9 Hours)
+- Decision Tree learning: recursive splitting, impurity metrics (Entropy, Information Gain, Gini Impurity, Gain Ratio).
+- ID3, C4.5, and CART algorithms; pruning techniques to prevent overfitting.
+- Ensemble learning foundations: Bagging and Boosting.
+- Random Forests: bootstrap aggregation, random feature subspaces, out-of-bag evaluation.
+- Boosting algorithms: AdaBoost, Gradient Boosting Machines (GBM), and XGBoost.
+
+Unit IV: Unsupervised Learning and Dimensionality Reduction (8 Hours)
+- Clustering algorithms: K-Means clustering, initialization heuristics (K-Means++), silhouette coefficient, elbow method.
+- Hierarchical clustering: agglomerative versus divisive, linkage criteria (single, complete, average).
+- Density-based spatial clustering of applications with noise (DBSCAN): core points, border points, noise, eps and minPts parameters.
+- Dimensionality reduction: Principal Component Analysis (PCA) - covariance matrix, eigenvalues, eigenvectors, explained variance; t-SNE basics.
+
+Unit V: Neural Networks and Model Evaluation (8 Hours)
+- Artificial Neural Networks: Perceptron, multi-layer perceptron (MLP), forward propagation, activation functions (Sigmoid, Tanh, ReLU, Leaky ReLU).
+- Backpropagation algorithm: chain rule derivation of gradients, optimization algorithms (SGD, Momentum, Adam).
+- Performance evaluation metrics: Confusion matrix, Accuracy, Precision, Recall, F1-Score, ROC curves, Area Under Curve (AUC).
+- Cross-validation techniques: k-fold, stratified k-fold, leave-one-out.
+
+Assessment Breakdown:
+- Internal Assessment: 30 Marks; External Assessment: 70 Marks.
+Textbooks:
+1. Tom M. Mitchell, "Machine Learning", McGraw-Hill, 1997.
+2. Christopher M. Bishop, "Pattern Recognition and Machine Learning", Springer, 2006.
+3. Aurélien Géron, "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow", 3rd Edition, O'Reilly Media, 2022.
+
+--------------------------------------------------------------------------------
+
+COURSE CODE: CS603
+COURSE TITLE: Cloud Computing and Distributed Systems
+CONTACT HOURS: 3-0-0 (Lecture: 3 hrs, Tutorial: 0 hrs, Practical: 0 hrs)
+CREDITS: 3
+PREREQUISITES: Operating Systems, Computer Networks
+
+Unit I: Distributed Systems Architecture and Foundations (8 Hours)
+- Distributed systems characteristics, goals, and architectural styles; RPC (Remote Procedure Calls), RMI.
+- Logical time, Lamport timestamps, vector clocks; distributed mutual exclusion (Ricart-Agrawala).
+- Distributed consensus: Byzantine Generals Problem, Paxos, Raft consensus algorithm overview.
+
+Unit II: Cloud Computing Models and Virtualization (9 Hours)
+- NIST cloud definition, essential characteristics; Service models: Infrastructure as a Service (IaaS), Platform as a Service (PaaS), Software as a Service (SaaS).
+- Deployment models: Public, Private, Hybrid, Multi-cloud.
+- Virtualization technology: hypervisors (Type 1 and Type 2), hardware-assisted virtualization, CPU/memory virtualization.
+- Containerization paradigms: OS-level virtualization, Docker container architecture vs virtual machines.
+
+Unit III: Cloud Storage, Compute, and Orchestration (9 Hours)
+- Cloud compute instances, autoscaling groups, load balancers.
+- Cloud storage models: block storage, file storage, object storage (Amazon S3 bucket structure, eventual consistency).
+- Container orchestration: Kubernetes architecture, pods, deployments, services, ingress controllers, ConfigMaps, and persistent volumes.
+
+Unit IV: Cloud Security, Governance, and SLA Management (9 Hours)
+- Cloud shared responsibility model; Identity and Access Management (IAM), role-based access control (RBAC).
+- Data security in cloud: encryption at rest, encryption in transit, key management services (KMS).
+- Service Level Agreements (SLAs): availability metrics (uptime nines), MTTF, MTTR, penalties.
+- Disaster recovery and multi-region high availability architectures.
+
+Unit V: Serverless Computing and Microservices Architecture (9 Hours)
+- Function-as-a-Service (FaaS) model: serverless lifecycle, cold starts, state management, event-driven triggers.
+- Monolith to microservices decomposition: domain-driven design, API gateways, service discovery.
+- Cloud-native monitoring and observability: distributed tracing, Prometheus metrics collection, Grafana dashboards.
+
+Assessment Breakdown:
+- Internal Assessment: 30 Marks; External Assessment: 70 Marks.
+Textbooks:
+1. Kai Hwang, Geoffrey C. Fox, and Jack J. Dongarra, "Distributed and Cloud Computing: From Parallel Processing to the Internet of Things", Morgan Kaufmann, 2012.
+2. Rajkumar Buyya, Christian Vecchiola, and S. Thamarai Selvi, "Mastering Cloud Computing", McGraw-Hill, 2013.
+
+--------------------------------------------------------------------------------
+
+COURSE CODE: CS604
+COURSE TITLE: Cryptography and Information Security
+CONTACT HOURS: 3-0-0 (Lecture: 3 hrs, Tutorial: 0 hrs, Practical: 0 hrs)
+CREDITS: 3
+PREREQUISITES: Discrete Mathematics, Computer Networks
+
+Unit I: Classical Cryptography and Mathematical Foundations (8 Hours)
+- Security goals: Confidentiality, Integrity, Availability (CIA triad), Non-repudiation, Authentication.
+- Classical ciphers: substitution, transposition, Caesar, Vigenère, Playfair, Hill cipher, cryptanalysis.
+- Modular arithmetic, Euclidean and Extended Euclidean algorithms, Fermat's Little Theorem, Euler's totient function, Chinese Remainder Theorem.
+
+Unit II: Symmetric Key Cryptosystems (10 Hours)
+- Stream ciphers vs block ciphers; Feistel cipher structure; Data Encryption Standard (DES), double DES, Triple-DES, Meet-in-the-Middle attack.
+- Advanced Encryption Standard (AES): substitution-byte, shift-rows, mix-columns, add-round-key transformations.
+- Block cipher modes of operation: ECB, CBC, CFB, OFB, CTR, and Galois/Counter Mode (GCM).
+
+Unit III: Asymmetric Key Cryptography and Key Exchange (9 Hours)
+- Public key cryptography principles; Diffie-Hellman key exchange and man-in-the-middle vulnerabilities.
+- RSA cryptosystem: key generation, encryption, decryption, security based on integer factorization.
+- Elliptic Curve Cryptography (ECC): algebraic structures of elliptic curves over finite fields, ECDH, ECDSA.
+
+Unit IV: Cryptographic Hash Functions, MACs, and Digital Signatures (9 Hours)
+- Cryptographic hash requirements: one-wayness, weak collision resistance, strong collision resistance; Birthday paradox attack.
+- Hash algorithms: SHA-256 and SHA-3 family architectures.
+- Message Authentication Codes (MAC): HMAC construction; Digital Signature Standard (DSS/DSA); RSA signatures.
+- Public Key Infrastructure (PKI): X.509 digital certificates, Certification Authorities (CA), revocation lists (CRL).
+
+Unit V: Network Security Protocols and Cyber Defense (8 Hours)
+- Transport layer security: TLS 1.3 handshake protocol and record layer.
+- IP Security (IPsec): AH and ESP protocols, tunnel mode vs transport mode.
+- System security: Firewalls (packet filtering, stateful inspection, application gateways), Intrusion Detection and Prevention Systems (IDS/IPS).
+- Common cyber attacks: SQL injection, Cross-Site Scripting (XSS), buffer overflows, Denial of Service (DoS/DDoS) and mitigation techniques.
+
+Assessment Breakdown:
+- Internal Assessment: 30 Marks; External Assessment: 70 Marks.
+Textbooks:
+1. William Stallings, "Cryptography and Network Security: Principles and Practice", 8th Edition, Pearson, 2020.
+2. Behrouz A. Forouzan and Debdeep Mukhopadhyay, "Cryptography and Network Security", 3rd Edition, McGraw-Hill, 2015.
+
+--------------------------------------------------------------------------------
+SEMESTER 6 LABORATORY COURSES:
+- CS611 Computer Networks and Security Laboratory (0-0-3, 1.5 Credits, 50 CIA + 50 ESE)
+- CS612 Machine Learning Laboratory (0-0-3, 1.5 Credits, 50 CIA + 50 ESE)
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+4. SEMESTER 7 & 8 CURRICULUM ARCHITECTURE & ADVANCED ELECTIVES
+--------------------------------------------------------------------------------
+
+SEMESTER 7 COURSE STRUCTURE:
+- CS701 Artificial Intelligence and Deep Learning (3-0-0, 3 Credits)
+- CS702 Big Data Analytics and Processing (3-0-0, 3 Credits)
+- CS703X Professional Elective II (3-0-0, 3 Credits)
+- OE701X Open Elective I (Inter-disciplinary, 3-0-0, 3 Credits)
+- CS711 Project Work Phase I / Capstone Initiation (0-0-6, 3 Credits, 100 CIA)
+- CS712 Industrial Internship Seminar & Summer Evaluation (0-0-4, 2 Credits, 100 CIA)
+
+SEMESTER 8 COURSE STRUCTURE:
+- CS801 High Performance Computing (3-0-0, 3 Credits)
+- CS802X Professional Elective III (3-0-0, 3 Credits)
+- OE802X Open Elective II (3-0-0, 3 Credits)
+- CS811 Capstone Project Work Phase II / 6-Month Full-Term Industry Internship (0-0-12, 6 Credits)
+
+--------------------------------------------------------------------------------
+5. ELECTIVE COURSE BASKET
+--------------------------------------------------------------------------------
+
+Professional Elective Track A: Artificial Intelligence & Intelligent Systems
+- CS5051 Natural Language Processing
+- CS6051 Computer Vision and Image Processing
+- CS7031 Reinforcement Learning and Multi-Agent Systems
+- CS8021 Generative AI and Large Language Models
+
+Professional Elective Track B: Systems, Networks & Cloud Infrastructure
+- CS5052 Internet of Things (IoT) and Embedded Systems
+- CS6052 Software-Defined Networking
+- CS7032 Edge Computing and Fog Networks
+- CS8022 Site Reliability Engineering and Cloud Automation
+
+Professional Elective Track C: Cybersecurity & Blockchain Technology
+- CS5053 Ethical Hacking and Penetration Testing
+- CS6053 Blockchain Architecture and Smart Contracts
+- CS7033 Digital Forensics and Incident Response
+- CS8023 Malware Analysis and Reverse Engineering
+
+Professional Elective Track D: Software Engineering & Data Systems
+- CS5054 Modern Web Architectures and Frameworks
+- CS6054 Mobile Application Development
+- CS7034 Data Warehousing and Business Intelligence
+- CS8024 Quantum Computing Algorithms
+
+Open Electives (For Non-CSE / Cross-Disciplinary Students):
+- OE7011 Introduction to Data Science with Python
+- OE7012 Cybersecurity Awareness and Digital Hygiene
+- OE8021 Intellectual Property Rights and Tech Ethics
+- OE8022 Enterprise Resource Planning and Digital Transformation
+
+--------------------------------------------------------------------------------
+6. EXAMINATION AND GRADING SPECIFICATION SUMMARY
+--------------------------------------------------------------------------------
+1. Each theoretical credit unit corresponds to 14 contact lecture hours per semester.
+2. Theory course assessment: Continuous Internal Assessment (30 marks) + End Semester Examination (70 marks) = 100 Marks.
+3. Practical course assessment: Continuous Lab Performance & Viva (50 marks) + Practical Examination (50 marks) = 100 Marks.
+4. Pass criteria: A student must obtain a minimum of 40% in the End Semester Examination and 40% aggregate in Theory courses; and 50% in Practical courses.
+
+[END OF DOCUMENT - 01_COURSE_SYLLABUS.TXT - SAMPLE MATERIAL]

@@ -1,0 +1,207 @@
+[SAMPLE DOCUMENT - FOR DEMONSTRATION PURPOSES ONLY]
+
+================================================================================
+INSTITUTE OF ADVANCED TECHNOLOGY AND SCIENCE
+OFFICE OF THE DEAN OF ACADEMIC AFFAIRS & ACADEMIC SENATE
+OFFICIAL ACADEMIC REGULATIONS, CURRICULAR STRUCTURE, AND DEGREE REQUIREMENTS
+REGULATION CODE: ACAD-REG-2024 (APPLICABLE TO UNDERGRADUATE B.TECH DEGREES)
+[SAMPLE DOCUMENT - FOR DEMONSTRATION PURPOSES ONLY]
+================================================================================
+
+1. PREAMBLE AND STATUTORY FRAMEWORK
+
+These Academic Regulations govern the admission, course registration, credit accounting, grading schemes, academic standing, advancement policies, and degree conferral requirements for all undergraduate Bachelor of Technology (B.Tech) programs at the Institute of Advanced Technology and Science. Formulated under the authority of the Academic Senate, these regulations maintain high academic standards while providing pedagogical flexibility and interdisciplinary learning pathways.
+
+--------------------------------------------------------------------------------
+2. THE CHOICE-BASED CREDIT SYSTEM (CBCS)
+--------------------------------------------------------------------------------
+
+The Institute adheres to the Choice-Based Credit System (CBCS), quantifying academic effort into discrete credits:
+
+2.1 Definition of an Academic Credit:
+- One (1) Lecture credit equals exactly 14 contact lecture hours per semester (typically one 50-minute lecture per week over a 14-week semester).
+- One (1) Tutorial credit equals exactly 14 contact tutorial/problem-solving hours per semester (one tutorial contact hour per week).
+- One (1) Practical/Laboratory credit equals exactly 28 contact laboratory or workshop hours per semester (two practical contact hours per week over 14 weeks).
+- Independent Studio / Project / Seminar work: Evaluated proportionally based on faculty contact and student workload.
+
+2.2 Semester Credit Distribution:
+- A standard academic semester requires a student to register for a curriculum load ranging between 20 and 26 credits.
+- Under special circumstances (e.g., remedial students on probation or advanced students pursuing Honors programs), the minimum allowable registration is 16 credits and the maximum allowable registration is 28 credits per semester, subject to approval by the Head of Department.
+- A regular four-year B.Tech degree requires the successful acquisition of a minimum of 160 cumulative academic credits.
+
+--------------------------------------------------------------------------------
+3. GRADING SCALE, LETTER GRADES, AND GRADE POINTS
+--------------------------------------------------------------------------------
+
+Evaluation in every registered course is translated into a 10-point letter grading system reflecting qualitative and quantitative academic performance.
+
+3.1 Absolute Grading Conversion Table:
+
+Letter Grade | Grade Point | Qualitative Performance Description | Score Range (Marks out of 100)
+-------------|-------------|-------------------------------------|-------------------------------
+O            | 10          | Outstanding                         | 90 <= Marks <= 100
+A+           | 9           | Excellent                           | 80 <= Marks < 90
+A            | 8           | Very Good                           | 70 <= Marks < 80
+B+           | 7           | Good                                | 60 <= Marks < 70
+B            | 6           | Above Average                       | 55 <= Marks < 60
+C            | 5           | Average                             | 45 <= Marks < 55
+P            | 4           | Pass (Minimum Qualifying Standard)  | 40 <= Marks < 45
+F            | 0           | Fail (Course Deficient / Backlog)   | Marks < 40
+Ab           | 0           | Absent from Final Examination       | Absent
+W            | 0           | Withdrawn due to Attendance Shortage| Debarred (< 65% attendance)
+I            | 0           | Incomplete (Approved Medical Crisis)| Deferred Evaluation
+
+3.2 Interpretative Guidelines:
+- A student securing an 'F', 'Ab', or 'W' grade in any course earns zero (0) grade points and zero (0) credits for that course.
+- To earn the credits assigned to a course, a candidate must achieve at least a 'P' grade (minimum 40 marks out of 100 in theory, 50 marks out of 100 in practicals).
+
+--------------------------------------------------------------------------------
+4. COMPUTATION OF SGPA AND CGPA (WITH WORKED EXAMPLES)
+--------------------------------------------------------------------------------
+
+Academic performance is summarized across individual terms and cumulative degree progress through two key indices: the Semester Grade Point Average (SGPA) and the Cumulative Grade Point Average (CGPA).
+
+4.1 Semester Grade Point Average (SGPA) Formulation:
+SGPA is the weighted average of grade points earned across all courses registered in a given semester:
+
+             Sum_{i=1 to n} (C_i * G_i)
+    SGPA = ------------------------------
+                 Sum_{i=1 to n} C_i
+
+Where:
+- n = Number of courses registered during that semester.
+- C_i = Number of credits assigned to the i-th course.
+- G_i = Numerical grade point earned in the i-th course.
+
+4.2 Cumulative Grade Point Average (CGPA) Formulation:
+CGPA measures cumulative academic performance from the first semester through the most recently completed semester:
+
+             Sum_{j=1 to m} (C_j * G_j)
+    CGPA = ------------------------------
+                 Sum_{j=1 to m} C_j
+
+Where m represents all courses registered across all completed semesters to date.
+
+4.3 Detailed Numerical Calculation Example:
+Consider a Semester 1 student enrolled in 5 courses with the following outcomes:
+- Course 1 (Mathematics I): Credits = 4, Letter Grade = A+ (Grade Point = 9), Points = 4 * 9 = 36
+- Course 2 (Physics): Credits = 4, Letter Grade = A (Grade Point = 8), Points = 4 * 8 = 32
+- Course 3 (Programming in C): Credits = 3, Letter Grade = O (Grade Point = 10), Points = 3 * 10 = 30
+- Course 4 (Engineering Mechanics): Credits = 3, Letter Grade = B+ (Grade Point = 7), Points = 3 * 7 = 21
+- Course 5 (Computing Lab): Credits = 2, Letter Grade = A (Grade Point = 8), Points = 2 * 8 = 16
+
+Total Registered Credits = 4 + 4 + 3 + 3 + 2 = 16 Credits.
+Total Earned Quality Points = 36 + 32 + 30 + 21 + 16 = 135.
+Semester 1 SGPA = 135 / 16 = 8.4375 (reported on grade sheet as 8.44).
+Since this is the candidate's first semester, their CGPA is also 8.44.
+
+Now consider Semester 2 for the same student:
+- Course 1 (Mathematics II): Credits = 4, Letter Grade = B+ (Grade Point = 7), Points = 28
+- Course 2 (Chemistry): Credits = 4, Letter Grade = B (Grade Point = 6), Points = 24
+- Course 3 (Data Structures): Credits = 4, Letter Grade = A+ (Grade Point = 9), Points = 36
+- Course 4 (Digital Logic): Credits = 3, Letter Grade = A (Grade Point = 8), Points = 24
+- Course 5 (Data Structures Lab): Credits = 2, Letter Grade = O (Grade Point = 10), Points = 20
+
+Total Semester 2 Credits = 17.
+Total Semester 2 Quality Points = 28 + 24 + 36 + 24 + 20 = 132.
+Semester 2 SGPA = 132 / 17 = 7.76.
+
+Consolidated Cumulative Calculation (CGPA after Semester 2):
+Total Credits Taken across Sem 1 & 2 = 16 + 17 = 33 Credits.
+Total Quality Points across Sem 1 & 2 = 135 + 132 = 267.
+CGPA = 267 / 33 = 8.0909 -> Reported CGPA = 8.09.
+
+--------------------------------------------------------------------------------
+5. MINIMUM ACADEMIC STANDING AND ANNUAL ADVANCEMENT THRESHOLDS
+--------------------------------------------------------------------------------
+
+5.1 Minimum CGPA Advancement Benchmark:
+- A candidate must maintain a minimum Cumulative Grade Point Average (CGPA) of at least 5.00 at the end of each academic year to advance to the subsequent academic year.
+- Promotion Thresholds:
+  * Promotion from 1st Year to 2nd Year (Semester 2 to 3): CGPA >= 5.00 and minimum 60% of total 1st year credits earned.
+  * Promotion from 2nd Year to 3rd Year (Semester 4 to 5): CGPA >= 5.00 and minimum 70% of total 1st & 2nd year credits earned.
+  * Promotion from 3rd Year to 4th Year (Semester 6 to 7): CGPA >= 5.00, minimum 80% credits earned, and zero backlogs from 1st year.
+
+5.2 Failure to Satisfy Advancement Threshold:
+- A student failing to attain a CGPA of 5.00 at the conclusion of an academic year is not permitted to register for higher-level courses.
+- The student is placed in an "Academic Year Hold" status and must spend the following year retaking failed or low-performing courses to improve their cumulative standing to the required 5.00 minimum.
+
+--------------------------------------------------------------------------------
+6. MAXIMUM STATUTORY DURATION FOR DEGREE CONFERRAL
+--------------------------------------------------------------------------------
+
+6.1 Degree Completion Window:
+- Normal Program Duration: 4 academic years (8 consecutive instructional semesters).
+- Maximum Statutory Duration: Six (6) academic years (12 semesters) measured from the initial date of formal admission (the N + 2 Years Rule).
+- Lateral Entry Students (Direct 2nd Year Admission): Maximum duration is five (5) academic years (10 semesters) from the date of lateral admission.
+
+6.2 Expiry of Statutory Candidacy:
+- If a candidate fails to satisfy all graduation and credit requirements within the maximum six-year period, their registration is automatically terminated without further administrative review.
+- Extensions beyond six years can only be sanctioned by the Chancellor upon recommendation of the Academic Senate under documented exceptional life-threatening circumstances.
+
+--------------------------------------------------------------------------------
+7. BRANCH CHANGE (ACADEMIC PROGRAM MIGRATION) ELIGIBILITY
+--------------------------------------------------------------------------------
+
+7.1 Eligibility Standards:
+- Branch change requests are considered exclusively at the end of the First Academic Year (completion of Semester 2).
+- The candidate must have passed all registered courses in Semesters 1 and 2 in the first attempt (zero backlogs).
+- The candidate must have secured a minimum CGPA of 8.50 across the first two semesters.
+
+7.2 Allocation and Quota Limits:
+- Branch changes are awarded strictly on merit ranking based on Semester 1 & 2 CGPA.
+- A branch change cannot result in exceeding the sanctioned student intake capacity of the receiving department by more than 10%.
+- A branch change cannot deplete the sanctioned student intake of the donor department by more than 10%.
+- Once allocated and notified, a branch change is irrevocable.
+
+--------------------------------------------------------------------------------
+8. COURSE REPEAT POLICY AND BACKLOG REMEDIATION
+--------------------------------------------------------------------------------
+
+8.1 Course Repeat Rules for Failed Subjects:
+- When a candidate receives an 'F' or 'W' grade in a core subject, they must clear the requirement either through the supplementary examination cycle or by re-registering for the course when offered again.
+- For elective courses, the candidate may either repeat the failed elective or substitute it with another elective from the approved track, with approval from their faculty advisor.
+- When a failed course is repeated and cleared, the newly earned grade replaces the prior 'F' grade point in subsequent CGPA calculations. The official final transcript retains a permanent mark indicating that the subject was cleared in a repeat attempt.
+
+8.2 Grade Improvement Policy:
+- Students who earn a 'P', 'C', or 'B' grade in a theoretical subject may apply to repeat that course for grade improvement during summer terms, subject to a lifetime cap of three (3) courses. The higher of the two earned grades is recorded on the final grade sheet.
+
+--------------------------------------------------------------------------------
+9. HONORS DEGREE PROGRAM REGULATIONS
+--------------------------------------------------------------------------------
+
+The Institute offers an optional B.Tech with Honors designation to provide academically exceptional students with advanced departmental specialization.
+
+9.1 Honors Eligibility Criteria:
+- A student must maintain a minimum CGPA of 8.00 at the end of Semester 4 with zero historical backlogs to register for the Honors track.
+- The student must maintain a CGPA >= 8.00 continuously through graduation. A drop in CGPA below 8.00 at any point results in immediate withdrawal of Honors candidacy.
+
+9.2 Curricular Credit Requirements:
+- The candidate must complete an additional twenty (20) credits over and above the regular 160 degree credits (totaling 180 credits for graduation).
+- These 20 credits must be earned through four advanced departmental theoretical electives (12 credits) and an advanced research thesis project (8 credits), or through approved advanced NPTEL/SWAYAM MOOC certifications verified by the Departmental Committee.
+
+--------------------------------------------------------------------------------
+10. MINOR DEGREE PROGRAM REGULATIONS
+--------------------------------------------------------------------------------
+
+To encourage cross-disciplinary skills, students may earn a Minor Degree in an allied discipline (e.g., a Mechanical Engineering student earning a Minor in Computer Science, or a Computer Science student earning a Minor in Robotics or Financial Mathematics).
+
+10.1 Minor Eligibility and Requirements:
+- Open to students from Semester 3 onward with a minimum CGPA of 7.00 and zero active backlogs.
+- The student must complete an additional eighteen to twenty (18–20) academic credits offered by the minor department.
+- The Minor credential is cited on the final degree parchment alongside the primary major upon meeting all completion criteria.
+
+--------------------------------------------------------------------------------
+11. ACADEMIC PROBATION PROTOCOLS AND ADMINISTRATIVE CONSEQUENCES
+--------------------------------------------------------------------------------
+
+11.1 Trigger Conditions for Academic Probation:
+- Any student whose SGPA in a single semester falls below 5.00, or whose cumulative CGPA drops below 5.00 at any point, is placed on formal Academic Probation.
+
+11.2 Operational Consequences of Probation:
+- Credit Load Restriction: The student is restricted to registering for a maximum of 16 credits in the subsequent semester to reduce workload and support academic recovery.
+- Mandatory Advisory Counseling: The student must meet bi-weekly with their designated Faculty Mentor and the Campus Academic Counseling Unit.
+- Extracurricular Debarment: Students on probation are barred from holding student leadership posts, participating in university-sponsored athletic tours, or taking leaves of absence for internships.
+- Escalation to Termination: If a student remains on academic probation for two consecutive semesters without demonstrating recovery (CGPA remaining below 5.00), the Academic Review Committee may issue a mandatory year suspension or recommend termination of degree registration to the Academic Senate.
+
+[END OF DOCUMENT - 06_ACADEMIC_REGULATIONS.TXT - SAMPLE MATERIAL]

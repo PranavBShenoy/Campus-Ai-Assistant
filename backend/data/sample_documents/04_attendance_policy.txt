@@ -1,0 +1,157 @@
+[SAMPLE DOCUMENT - FOR DEMONSTRATION PURPOSES ONLY]
+
+================================================================================
+INSTITUTE OF ADVANCED TECHNOLOGY AND SCIENCE
+OFFICE OF ACADEMIC AFFAIRS AND DEAN OF STUDENT WELFARE
+COMPREHENSIVE INSTITUTIONAL ATTENDANCE POLICY AND REGULATIONS
+ACADEMIC YEAR 2024–2025 (APPLICABLE TO ALL UNDERGRADUATE PROGRAMMES)
+[SAMPLE DOCUMENT - FOR DEMONSTRATION PURPOSES ONLY]
+================================================================================
+
+1. PHILOSOPHICAL FOUNDATIONS AND POLICY SCOPE
+
+Regular classroom engagement, active laboratory experimentation, and interactive peer discussions form the cornerstone of effective undergraduate engineering education. Consistent participation instills professional discipline, reinforces technical understanding, and ensures continuous pedagogical continuity.
+
+This document articulates the institutional attendance mandates, calculation methodologies, condonation procedures, disciplinary penalties, and documentation requirements applicable to all registered undergraduate students across all academic semesters.
+
+--------------------------------------------------------------------------------
+2. MANDATORY ATTENDANCE THRESHOLDS AND CLASSIFICATIONS
+--------------------------------------------------------------------------------
+
+Attendance is tracked on a course-by-course basis across theoretical lectures, tutorial discussions, and laboratory practicums throughout the 14-week instructional semester.
+
+2.1 Tier 1: Satisfactory Attendance Benchmark (>= 75.0% Attendance)
+- Every candidate enrolled in a degree program is strictly required to maintain a minimum of 75.0% physical attendance in each individual registered subject (theory and laboratory independently).
+- Students attaining 75% or greater attendance are automatically eligible to sit for the End-Semester Examinations (ESE) in the respective subject without requiring additional institutional approvals.
+
+2.2 Tier 2: Condonation Range (65.0% to 74.9% Attendance)
+- A student whose individual course attendance falls below 75.0% but remains equal to or above 65.0% is ordinarily debarred from writing the End-Semester Examination, unless granted formal condonation.
+- Condonation represents an extraordinary academic dispensation reserved exclusively for documented medical emergencies or authorized institutional representations.
+- Condonation is not an entitlement; each application is evaluated on merit by the Academic Condonation Board and requires approval by the Dean of Academic Affairs.
+
+2.3 Tier 3: Critical Shortage and Detention (< 65.0% Attendance)
+- Any student whose overall attendance in any individual subject drops below 65.0% is summarily detained from appearing in the End-Semester Examination for that specific course.
+- Under no circumstances—including severe medical illness, hospitalization, or compassionate grounds—shall condonation be granted to a candidate holding less than 65.0% attendance.
+- Consequences of Detention:
+  * The student is awarded a 'W' (Withdrawn / Attendance Shortage) grade on their semester grade report.
+  * The student is ineligible for the supplementary examination cycle for that course.
+  * The student must re-register for the course and attend regular classes in a subsequent semester or designated summer term when the course is formally offered, paying full course re-registration fees.
+
+--------------------------------------------------------------------------------
+3. MATHEMATICAL CALCULATION METHODOLOGY & TELEMETRY
+--------------------------------------------------------------------------------
+
+3.1 Standard Calculation Formula:
+Attendance percentage in every registered course is computed using the precise mathematical formula:
+
+    Attendance Percentage (%) = (Classes Attended / Total Classes Held) * 100
+
+Where:
+- "Classes Attended" represents the verified number of instructional lecture, tutorial, or practical periods during which the student was physically present and marked in the official register.
+- "Total Classes Held" represents the cumulative sum of all scheduled instructional contact hours actually delivered by the course instructor from the first instructional day until the formal last day of instruction.
+
+3.2 Rounding Conventions:
+- Attendance percentages are calculated to two decimal points and are not rounded up to the nearest integer. For example, an attendance percentage of 74.92% falls strictly within the condonation tier and cannot be rounded to 75.00%.
+
+3.3 Official On-Duty (OD) Leave Provisions:
+- Authorized On-Duty leave may be credited to a student's attendance record for representing the Institute in sanctioned extracurricular, co-curricular, or institutional activities, including:
+  * Inter-university sports tournaments approved by the Directorate of Physical Education.
+  * State, national, or international hackathons, robotics challenges, and coding competitions.
+  * Research paper presentations at peer-reviewed IEEE, ACM, or Springer conferences.
+  * Approved National Service Scheme (NSS) or NCC community camps.
+- Cap on OD Leaves: The cumulative quantum of On-Duty attendance credit cannot exceed 10.0% of the total instructional hours delivered in any given subject. Students must maintain at least 65.0% physical classroom presence irrespective of total OD requests.
+
+--------------------------------------------------------------------------------
+4. MEDICAL LEAVE PROTOCOL AND DOCUMENTATION DEADLINES
+--------------------------------------------------------------------------------
+
+When unavoidable medical conditions, sudden illness, or injuries prevent regular attendance, the student must adhere to strict administrative reporting procedures.
+
+4.1 Verification Procedure:
+- A medical leave application must be submitted via the online ERP portal and accompanied by authentic documentation:
+  * Medical certificate signed and stamped by a registered medical practitioner (holding a minimum MBBS qualification and Medical Council registration number).
+  * Inpatient hospitalization discharge summary, surgical reports, or formal clinical diagnostic test records (e.g., blood reports, radiological scans).
+  * Prescription receipts and pharmacy invoices corresponding to the illness duration.
+
+4.2 Submission Deadlines:
+- All medical documentation must be submitted to the Department Office within exactly three (3) calendar days of the student's physical return to campus.
+- Retroactive submissions presented at the end of the semester, during examination hall ticket generation, or beyond the 3-day window will be rejected without review.
+- The Institute Medical Officer (Chief Medical Officer) must physically verify and counter-attest all documents prior to forwarding to the Academic Condonation Board.
+
+--------------------------------------------------------------------------------
+5. CONDONATION PENALTIES AND ADMINISTRATIVE FEES
+--------------------------------------------------------------------------------
+
+To encourage proactive attendance management and offset the administrative burden of individualized auditing, monetary penalties are levied on condonation cases.
+
+5.1 Attendance Shortage Condonation Fine:
+- When a student's attendance falls between 65.0% and 74.9% and the Academic Condonation Board approves the condonation request, a statutory condonation penalty fee of ₹500 (INR Five Hundred) is levied per subject.
+- Example: A candidate requiring condonation across three theoretical courses must remit a total administrative penalty of ₹1,500 (3 * ₹500) through the campus payment gateway prior to the release of their examination hall ticket.
+- Non-payment of the condonation penalty by the notified deadline will result in automatic withholding of the hall ticket and subsequent detention.
+
+--------------------------------------------------------------------------------
+6. PROXY ATTENDANCE AND FRAUDULENT RECORDING: CODE OF CONDUCT
+--------------------------------------------------------------------------------
+
+Academic honesty extends directly to classroom presence records. Proxy attendance undermines institutional integrity and is treated as a major disciplinary offense.
+
+6.1 Definition of Proxy Infractions:
+- Proxy attendance includes marking attendance or signing the register on behalf of an absent peer, presenting duplicate smart cards, biometric spoofing, sharing digital one-time attendance tokens, or manipulating mobile geofenced check-in applications.
+
+6.2 Disciplinary Sanctions:
+- Both the student requesting the proxy and the student performing the proxy action are held equally culpable.
+- First Offense:
+  * Immediate cancellation of attendance for both individuals across all subjects for a period of two weeks.
+  * A punitive monetary fine of ₹2,000 per involved candidate.
+  * Formal reprimand letter dispatched to parents/guardians and placed in the student's permanent academic docket.
+  * Suspension of campus library borrowing privileges for thirty days.
+- Repeat Offense:
+  * Immediate referral to the Central Proctorial Disciplinary Committee.
+  * Suspension from academic classes for one full semester.
+  * Disqualification from campus recruitment drives and leadership roles in student government or campus clubs.
+
+--------------------------------------------------------------------------------
+7. LABORATORY AND PRACTICAL ATTENDANCE SPECIFICATIONS
+--------------------------------------------------------------------------------
+
+Laboratory sessions demand hands-on technical competence and cannot be substituted by theoretical self-study.
+
+7.1 Independence of Lab Records:
+- Practical and laboratory attendance is maintained entirely independent of theoretical course attendance. High attendance in lecture classes cannot compensate for absences in corresponding practical sessions.
+
+7.2 Experiment Completion Mandate:
+- In addition to fulfilling the statutory 75.0% minimum laboratory attendance, a student must successfully execute, document, and receive faculty sign-off for 100% of the prescribed laboratory experiments.
+- Missed Laboratory Buffer Sessions: If an experiment is missed due to verified medical absence, the student must attend designated buffer lab sessions conducted on alternate Saturdays to complete the missed practical work.
+
+--------------------------------------------------------------------------------
+8. MAKEUP CLASSES AND INSTRUCTIONAL RECOVERY
+--------------------------------------------------------------------------------
+
+To ensure complete coverage of the prescribed curriculum without compromising contact hours, departments schedule makeup classes under specific guidelines.
+
+8.1 Scheduling and Notification:
+- When regular lecture classes are lost due to gazetted public holidays, unforeseen campus closures, or severe weather disruptions, instructors must schedule makeup lectures on designated instructional Saturdays or extended evening slots.
+- All makeup classes must be scheduled with a minimum of 48 hours advance notice posted to the student LMS portal.
+- Attendance recorded during scheduled makeup classes carries identical statutory weight and is incorporated directly into the "Total Classes Held" and "Classes Attended" metrics.
+
+--------------------------------------------------------------------------------
+9. ONLINE AND HYBRID CLASS ATTENDANCE REGULATIONS
+--------------------------------------------------------------------------------
+
+During designated remote learning periods, hybrid workshops, or blended course modules, digital telemetry governs attendance verification.
+
+9.1 Digital Participation Criteria:
+- Meeting Telemetry Verification: Students must join remote sessions through their authenticated institutional single-sign-on (SSO) email accounts.
+- Minimum Duration Threshold: To receive attendance credit for an online lecture, a student must remain actively connected for at least 80% of the total session duration as logged by the LMS telemetry platform.
+- Active Video Engagement: Students must maintain active video camera feeds when requested by the instructor during quizzes, interactive discussions, or oral recitations. Periodic automated polling prompts appearing during the session must be answered within 60 seconds; failure to respond to two consecutive prompts results in forfeiture of attendance for that session.
+- Connection Disruptions: In cases of severe ISP network disruptions, a student must submit bandwidth disconnection logs to the course coordinator within 24 hours to request consideration.
+
+--------------------------------------------------------------------------------
+10. GRIEVANCES AND ATTENDANCE RECTIFICATION TIMELINE
+--------------------------------------------------------------------------------
+
+10.1 Real-Time Attendance Monitoring:
+- Students may view daily attendance status via the Student Mobile ERP Application. Instructors are mandated to update attendance within 24 hours of class completion.
+- Discrepancy Reporting: If a student believes an absence was recorded in error, they must report the discrepancy in writing to the course instructor within five (5) working days of the class. No attendance amendments will be entertained beyond this 5-day window or after the final consolidated attendance register has been locked by the Academic Office.
+
+[END OF DOCUMENT - 04_ATTENDANCE_POLICY.TXT - SAMPLE MATERIAL]

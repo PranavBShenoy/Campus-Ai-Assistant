@@ -1,0 +1,182 @@
+[SAMPLE DOCUMENT - FOR DEMONSTRATION PURPOSES ONLY]
+
+================================================================================
+INSTITUTE OF ADVANCED TECHNOLOGY AND SCIENCE
+OFFICE OF THE DEAN OF STUDENT AFFAIRS
+COMPREHENSIVE STUDENT HANDBOOK & FREQUENTLY ASKED QUESTIONS (FAQ)
+CAMPUS LIFE, ACADEMIC SERVICES, INFRASTRUCTURE, AND STUDENT WELFARE
+[SAMPLE DOCUMENT - FOR DEMONSTRATION PURPOSES ONLY]
+================================================================================
+
+WELCOME TO CAMPUS LIFE
+
+This handbook serves as the definitive reference manual for undergraduate students regarding daily campus operations, support facilities, residential rules, fee schedules, student governance, disciplinary standards, and extracurricular opportunities at the Institute of Advanced Technology and Science.
+
+--------------------------------------------------------------------------------
+SECTION 1: CENTRAL LIBRARY AND LEARNING RESOURCES
+--------------------------------------------------------------------------------
+
+Q1.1: What are the operating hours of the Central Library?
+The Central Library operates on the following schedule:
+- Monday through Saturday: 8:00 AM to 10:00 PM (Regular Instructional Weeks).
+- Extended Hours during Mid-Term and End-Semester Examination Windows: 8:00 AM to Midnight (12:00 AM).
+- Sundays and Institute Public Holidays: 9:00 AM to 5:00 PM.
+The digital library reading hall and collaborative discussion suites remain accessible 24/7 to registered students via smart card badge access.
+
+Q1.2: What are the book borrowing limits and loan durations for undergraduate students?
+- Standard Borrowing Quota: Undergraduate B.Tech students may borrow up to three (3) physical books simultaneously using their RFID student identity card.
+- Loan Duration: Books may be retained for a maximum loan period of fourteen (14) calendar days.
+- Renewal Rules: A borrowed book may be renewed twice online through the library OPAC portal, provided no reservation has been placed by another borrower.
+- Overdue Fines: A late return penalty of ₹5 per day per book is levied during the first week overdue, escalating to ₹10 per day thereafter. Lost books must be replaced with the newest edition or reimbursed at twice the current replacement cost.
+
+Q1.3: How do I access online IEEE, ACM, and Springer research databases?
+Students receive single-sign-on (SSO) remote access to institutional subscriptions through the library portal. When off-campus, access is facilitated via the institute OpenAthens proxy using your @campus.edu credentials.
+
+--------------------------------------------------------------------------------
+SECTION 2: TUITION FEES, PAYMENT DEADLINES, AND LATE FINES
+--------------------------------------------------------------------------------
+
+Q2.1: When are semester tuition and hostel fees due, and what is the late fine?
+- Regular Due Date: Semester fees must be deposited before the designated semester registration date (July 15th for Odd Semesters and January 5th for Even Semesters).
+- Grace Period: A five-day grace period is extended without financial penalty.
+- Late Fine Penalty: Following the grace period, an administrative late fine of ₹50 per day is charged for up to 15 calendar days.
+- De-Registration Notice: If fee arrears remain unpaid after 30 days from the start of instruction, the student's enrollment is placed on administrative hold, disabling LMS access and attendance recording until all dues and a reactivation charge of ₹1,000 are settled.
+
+Q2.2: What modes of payment are accepted for academic fees?
+All fees must be remitted electronically through the unified Student ERP Payment Gateway via Net Banking, UPI, Credit Card, or NEFT/RTGS. Cash transactions and physical checks are strictly prohibited.
+
+--------------------------------------------------------------------------------
+SECTION 3: RESIDENTIAL HOSTEL REGULATIONS AND RESIDENT CODE OF CONDUCT
+--------------------------------------------------------------------------------
+
+Q3.1: What are the hostel curfew timings and attendance check policies?
+- Campus Hostel Curfew: All residential students must return to their respective hostel blocks by 9:30 PM daily.
+- Biometric Verification: Mandatory biometric attendance verification is conducted between 9:30 PM and 10:00 PM by the resident hostel proctors.
+- Quiet Hours: Quiet study hours are observed from 11:00 PM to 6:00 AM. High-volume music, noisy social gatherings, or disturbances in corridors during these hours will lead to disciplinary citations.
+
+Q3.2: How do students apply for late passes or overnight leaves?
+- Night-Out Pass Procedure: Residents seeking to leave the hostel overnight or visit family must submit an e-gate pass request via the Hostel ERP Portal at least 24 hours in advance.
+- Parental Consent: The portal triggers an automated two-factor SMS/email authorization prompt to the registered parent/guardian. Approval by both the parent and the resident warden is mandatory before the security gate will clear exit.
+
+Q3.3: What is the visitor and room occupancy policy?
+Day scholars and outside guests are strictly prohibited from entering student hostel rooms. Parents and guardians may meet residents in the designated visitor lounge between 4:00 PM and 7:00 PM upon signing the visitor log.
+
+--------------------------------------------------------------------------------
+SECTION 4: SCHOLARSHIPS, MERIT REWARDS, AND FINANCIAL AID
+--------------------------------------------------------------------------------
+
+Q4.1: What institutional merit scholarships are available?
+- Dean's Merit Scholarship:
+  * Awarded annually to the top 10% of students in each engineering branch based on academic year CGPA.
+  * Scholarship Quantum: ₹25,000 per academic year, credited directly toward the subsequent year's tuition fees.
+  * Eligibility Requirement: Minimum CGPA of 8.50 with zero backlogs and no disciplinary sanctions on record.
+
+Q4.2: What financial aid exists for economically disadvantaged students?
+- Need-Based Tuition Waiver (NBTW):
+  * Open to students whose annual family household income from all sources is less than ₹3,00,000 (INR 3 Lakhs per annum).
+  * Covers up to 50% to 100% tuition remission subject to the verification of authentic income certificates, income tax returns, and committee interview.
+  * Continuation Criterion: Recipients must maintain a minimum CGPA of 6.50 and clear all courses in the first attempt.
+
+--------------------------------------------------------------------------------
+SECTION 5: STUDENT CLUBS, CHAPTERS, AND EXTRACURRICULAR LIFE
+--------------------------------------------------------------------------------
+
+Q5.1: What student clubs exist and how can I join them?
+The campus hosts over 35 recognized student societies organized into three branches:
+- Technical Chapters: ACM Student Chapter, IEEE Student Branch, Google Developer Student Clubs (GDSC), Robotics & Autonomous Systems Club, Open Source Software Society, and Cybersecurity Guild.
+- Cultural & Literary Societies: Dramatics Club, Literary & Debating Society, Music & Acoustics Band, Choreography Ensemble, and Fine Arts Society.
+- Social & Leadership Wings: Rotaract Club, National Service Scheme (NSS), and Entrepreneurship Cell (E-Cell).
+- Annual Recruitment Drive: Every academic year commences with the "Club Expo" during the third instructional week of August, where students can explore club kiosks and register online.
+
+--------------------------------------------------------------------------------
+SECTION 6: KEY ACADEMIC CALENDAR MILESTONES
+--------------------------------------------------------------------------------
+
+Q6.1: What are the primary milestones in the institutional academic calendar?
+The typical academic year follows a structured schedule:
+- Odd Semester (Autumn Term):
+  * Commencement of Instruction: First Monday of August
+  * Mid-Term Examination Week: First week of October
+  * Annual Technical & Cultural Fest ("TechIgnite"): Last weekend of October
+  * Last Instructional Day: Third Friday of November
+  * Preparation / Reading Recess: 5 calendar days following instructional closure
+  * End-Semester Theory & Practical Exams: December 1st through December 22nd
+  * Winter Vacation: December 23rd through January 4th
+- Even Semester (Spring Term):
+  * Commencement of Instruction: First Monday of January
+  * Mid-Term Examination Week: First week of March
+  * Annual Inter-University Sports Meet: Third week of March
+  * Last Instructional Day: Last Friday of April
+  * End-Semester Exams: May 5th through May 28th
+  * Summer Internship / Vacation Window: June 1st through July 31st
+
+--------------------------------------------------------------------------------
+SECTION 7: GRIEVANCE REDRESSAL MECHANISMS AND DISCIPLINARY COMMITTEES
+--------------------------------------------------------------------------------
+
+Q7.1: What is the institutional process for resolving academic or administrative grievances?
+The Institute maintains a transparent 4-tier grievance redressal mechanism:
+- Level 1 (Faculty Advisor / Proctor): Initial informal counseling within 48 hours.
+- Level 2 (Head of Department): Formal written escalation; departmental hearing convened within 5 working days.
+- Level 3 (Dean of Student Welfare / Dean of Academics): Institutional review board handling appeals.
+- Level 4 (Institute Ombudsman & Statutory Grievance Redressal Committee): High-level body headed by a retired judicial officer for impartial final arbitration.
+
+Q7.2: What is the policy regarding ragging and harassment?
+Zero Tolerance Policy: The Institute strictly enforces the UGC Regulations on Curbing the Menace of Ragging in Higher Educational Institutions. Ragging in any form (verbal, physical, psychological) is a cognizable criminal offense resulting in immediate suspension, expulsion, and filing of a police FIR. The Anti-Ragging Helpline operates 24/7 at +91-1800-180-5522.
+
+--------------------------------------------------------------------------------
+SECTION 8: CYBERSECURITY LABORATORY & COMPUTING INFRASTRUCTURE RULES
+--------------------------------------------------------------------------------
+
+Q8.1: What special operating rules apply to the Advanced Cybersecurity Laboratory?
+Due to specialized network equipment and penetration testing environments, the Cybersecurity Lab operates under strict protocols:
+- Badge Access Only: Only students enrolled in authorized security courses or faculty-approved research teams are granted electronic badge entry.
+- Prohibition of Unauthorized Penetration Testing: Running network sniffers (e.g., Wireshark), port scanners (e.g., Nmap), or exploit payloads against the institutional network, administrative servers, or peer machines is strictly prohibited and constitutes grounds for disciplinary action.
+- Isolated Sandboxes: All vulnerability simulations, malware analyses, and penetration exercises must be executed within isolated virtual sandbox environments.
+- Clean Desk Policy: No removable USB storage devices, hardware keyloggers, or unauthorized personal laptops may be connected to laboratory switches or core consoles.
+
+--------------------------------------------------------------------------------
+SECTION 9: SPORTS FACILITIES AND BOOKING SYSTEMS
+--------------------------------------------------------------------------------
+
+Q9.1: What sports facilities are available and how do I book courts?
+- Facilities: The campus features an indoor sports complex with four wooden badminton courts, two table tennis arenas, an Olympic-size swimming pool, a fully equipped gym, floodlit outdoor basketball courts, two synthetic tennis courts, and a full-size cricket and football field.
+- Booking Protocol: Indoor badminton courts, tennis courts, and gym fitness slots must be booked 24 hours in advance through the Sports Module of the Campus Mobile App. Each student is permitted a maximum of one 60-minute slot per day to ensure equitable access.
+
+--------------------------------------------------------------------------------
+SECTION 10: ALUMNI MENTORSHIP PROGRAM
+--------------------------------------------------------------------------------
+
+Q10.1: How does the Alumni Mentorship Program function?
+- Target Cohort: Third-year (Semester 5 & 6) and fourth-year (Semester 7 & 8) students are matched with alumni working in global engineering, research, and managerial roles.
+- Pairing Process: Conducted through the Campus Alumni Portal based on career aspirations (e.g., Cloud Architecture, AI Research, Quantitative Finance, Product Management).
+- Engagement Cadence: Mentors conduct monthly one-on-one virtual mentoring sessions, resume critiques, mock technical interviews, and guidance on graduate school admissions.
+
+--------------------------------------------------------------------------------
+SECTION 11: MENTAL HEALTH AND WELLNESS COUNSELING SERVICES
+--------------------------------------------------------------------------------
+
+Q11.1: What mental health and psychological wellness support is available?
+- "Sanjeevani" Student Wellness Centre: Staffed by three full-time licensed clinical psychologists and psychiatric counselors.
+- Confidentiality: All counseling sessions, psychometric assessments, and consultations are completely confidential and never disclosed to faculty, parents, or future employers.
+- Booking and Emergency Helpline: In-person appointments can be booked via email at wellness@campus.edu or through anonymous booking kiosks. A 24/7 crisis tele-support helpline operates at +91-800-SANJEEV.
+
+--------------------------------------------------------------------------------
+SECTION 12: CAMPUS DRESS CODE AND PROFESSIONAL ATTIRE POLICY
+--------------------------------------------------------------------------------
+
+Q12.1: What is the campus dress code?
+- General Instructional Hours: Students are expected to wear neat, clean, smart-casual attire appropriate for an academic environment.
+- Laboratory Sessions: Long pants and closed-toe leather or canvas shoes are mandatory for safety; loose clothing or sandals are prohibited in hardware, robotics, and electrical engineering labs.
+- Placement Drives and Formal Ceremonies: Business formal attire (formal shirts, trousers, neckties/blazers, or formal Indian attire) is compulsory for campus placement interviews, company presentations, and formal academic assemblies.
+
+--------------------------------------------------------------------------------
+SECTION 13: CAMPUS INTERNET, WI-FI, AND ACCEPTABLE USE POLICY
+--------------------------------------------------------------------------------
+
+Q13.1: What are the campus Wi-Fi policies and bandwidth allocations?
+- Authentication: Secure Wi-Fi (SSID: "CAMPUS_STUDENT_SECURE") requires WPA2-Enterprise authentication using your student roll number and central directory password.
+- Daily Data Quota: Each student is provisioned with a daily high-speed bandwidth quota of 15 GB. Once consumed, speeds are throttled to 2 Mbps until reset at midnight.
+- Prohibited Activities: Peer-to-peer torrent downloading, unauthorized cryptocurrency mining, commercial hosting, distributed denial of service activities, accessing pirated content, or circumventing network firewalls via unauthorized proxy tunnels is strictly prohibited. Violators will face immediate MAC address blacklisting and disciplinary inquiry.
+
+[END OF DOCUMENT - 05_STUDENT_HANDBOOK_FAQ.TXT - SAMPLE MATERIAL]

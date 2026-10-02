@@ -1,0 +1,201 @@
+[SAMPLE DOCUMENT - FOR DEMONSTRATION PURPOSES ONLY]
+
+================================================================================
+INSTITUTE OF ADVANCED TECHNOLOGY AND SCIENCE
+OFFICE OF THE CONTROLLER OF EXAMINATIONS
+COMPREHENSIVE EXAMINATION GUIDELINES, ASSESSMENT RULES, AND CODE OF CONDUCT
+ACADEMIC YEAR 2024–2025 (APPLICABLE TO UNDERGRADUATE B.TECH PROGRAMS)
+[SAMPLE DOCUMENT - FOR DEMONSTRATION PURPOSES ONLY]
+================================================================================
+
+1. INTRODUCTION AND STATUTORY AUTHORITY
+
+The Office of the Controller of Examinations (CoE) issues these comprehensive guidelines governing the evaluation framework, conduct of examinations, assessment modalities, academic integrity, and grievance mechanisms for all Bachelor of Technology (B.Tech) degree candidates. These regulations are designed to maintain academic rigor, ensure transparent evaluation, and establish uniformity across all engineering departments.
+
+All admitted students, proctors, invigilators, and faculty examiners are bound by the statutory policies outlined herein. Ignorance of these guidelines shall not be accepted as an excuse for non-compliance or procedural infractions.
+
+--------------------------------------------------------------------------------
+2. CONTINUOUS INTERNAL ASSESSMENT (CIA) STRUCTURE
+--------------------------------------------------------------------------------
+
+Continuous assessment is integrated throughout the 14-week instructional semester to provide iterative feedback on student progress. For every standard theoretical course, internal assessment carries a substantial weightage.
+
+2.1 Theoretical Course Internal Assessment Breakdown (Total: 50 Marks Scaled / Normalized):
+- Mid-Term Written Examination (Centralized): 30 Marks
+  * Conducted centrally during the 8th instructional week across designated examination halls.
+  * Duration: 90 minutes.
+  * Syllabus Coverage: Units I, II, and designated portions of Unit III.
+  * Format: Descriptive analytical questions with limited internal choice.
+- Continuous Course Assignments and Case Studies: 20 Marks
+  * Minimum of four formal assignments spread evenly across the semester.
+  * Assignment 1 (5 Marks): Conceptual problem set (Units I & II).
+  * Assignment 2 (5 Marks): Coding problem / analytical case study / mini-implementation.
+  * Assignment 3 (5 Marks): Advanced design problem set (Units III & IV).
+  * Assignment 4 (5 Marks): Research summary or application-oriented design document (Unit V).
+- Surprise Quizzes and Classroom Engagement (Integrated Bonus/Benchmarking): 5 Marks
+  * Faculty members conduct at least two unannounced LMS-based objective quizzes.
+
+2.2 Laboratory and Practical Courses Internal Assessment Breakdown (Total: 50 Marks):
+- Weekly Experiment Execution and Code Correctness: 20 Marks
+- Timely Submission and Quality of Laboratory Record Notebook: 15 Marks
+- Mid-Semester Practical Examination and Viva Voce: 15 Marks
+
+--------------------------------------------------------------------------------
+3. END-SEMESTER EXAMINATION (ESE) ARCHITECTURE & BLUEPRINT
+--------------------------------------------------------------------------------
+
+The End-Semester Examination represents the comprehensive summative evaluation conducted at the conclusion of each academic term by the Office of the Controller of Examinations.
+
+3.1 Examination Parameters:
+- Total Time Duration: Exactly 3 Hours (180 Minutes).
+- Total Evaluation Marks: 70 Marks.
+- Paper Format: Uniform across all engineering disciplines to guarantee standardized rigor.
+
+3.2 Section-Wise Question Paper Pattern:
+- PART A: Fundamental Conceptual Comprehension (20 Marks)
+  * Comprises 10 mandatory short-answer questions of 2 marks each.
+  * Exactly two questions are drawn from each of the five prescribed course units.
+  * Evaluates Bloom's Taxonomy Levels 1 and 2 (Remembering and Understanding).
+  * No internal choice is provided; all ten questions are compulsory.
+- PART B: Analytical Application and Problem Solving (30 Marks)
+  * Comprises 5 questions carrying 6 marks each.
+  * One question per unit, formatted with an "Either / Or" internal choice within the same unit.
+  * Evaluates Bloom's Taxonomy Levels 3 and 4 (Applying and Analyzing).
+  * Requires students to solve algorithmic proofs, mathematical derivations, or system design scenarios.
+- PART C: Comprehensive Synthesis and Advanced Design (20 Marks)
+  * Comprises 2 comprehensive design or case study questions of 10 marks each.
+  * The student must answer 2 questions out of 3 choices drawn from cross-unit domains.
+  * Evaluates Bloom's Taxonomy Levels 5 and 6 (Evaluating and Creating).
+  * Requires end-to-end architecture diagrams, optimization strategies, and full algorithmic specifications.
+
+--------------------------------------------------------------------------------
+4. PASSING CRITERIA AND MINIMUM PERFORMANCE THRESHOLDS
+--------------------------------------------------------------------------------
+
+To qualify for academic credit in any registered course, a student must fulfill independent minimum performance thresholds in both continuous assessment and summative examinations.
+
+4.1 Theory Course Passing Criteria:
+- Minimum passing marks in End-Semester Theory Examination: Exactly 40% (i.e., at least 28 marks out of 70 marks).
+- Minimum cumulative aggregate passing marks: Exactly 40% combined score (CIA + ESE >= 40 out of 100 marks).
+- Condition: Securing high internal assessment marks cannot compensate for scoring below 28 marks in the 70-mark external examination. A student scoring below 28 in the ESE receives an automatic 'F' (Fail) grade irrespective of internal marks.
+
+4.2 Practical / Laboratory Course Passing Criteria:
+- Minimum passing marks in End-Semester Practical Examination: Exactly 50% (i.e., at least 25 marks out of 50 marks).
+- Minimum cumulative aggregate passing marks in practical courses: Exactly 50% (i.e., at least 50 marks out of 100 marks total).
+- Continuous presence and performance in 100% of prescribed laboratory experiments is prerequisite to appearing for the practical examination.
+
+--------------------------------------------------------------------------------
+5. SUPPLEMENTARY AND RE-EXAMINATION ELIGIBILITY RULES
+--------------------------------------------------------------------------------
+
+Students who fail to secure passing grades or who are prevented from taking regular examinations due to approved medical exigencies are governed by the following supplementary examination framework:
+
+5.1 Eligibility Criteria:
+- A student holding an active 'F' (Fail) or 'Ab' (Absent) grade in any theoretical or laboratory course is eligible to register for the Supplementary Examination.
+- Students detained due to critical attendance shortages (attendance below 65%) are strictly ineligible for supplementary examinations and must repeat the course during a regular semester.
+
+5.2 Supplementary Cycle Schedules:
+- Summer Supplementary Examination: Conducted in June/July immediately following even semester regular examinations.
+- Winter Supplementary Examination: Conducted in December/January immediately following odd semester regular examinations.
+- A candidate may register for a maximum of four backlog courses in any single supplementary examination window to ensure academic focus.
+
+5.3 Registration Fees and Procedure:
+- A non-refundable examination fee of ₹1,000 per theory subject and ₹1,500 per laboratory subject must be deposited through the student ERP portal before the notified deadline.
+- Upon passing a supplementary examination, the transcript clearly records the earned grade with an asterisk indicating supplementary clearance, and the grade point is capped at a maximum of B+ (Grade Point 7).
+
+--------------------------------------------------------------------------------
+6. MALPRACTICE TAXONOMY, HEARINGS, AND DISCIPLINARY SANCTIONS
+--------------------------------------------------------------------------------
+
+Academic integrity is paramount. The Examination Disciplinary Action Committee (EDAC) adjudicates all alleged malpractice incidents under strict procedural fairness.
+
+6.1 Malpractice Categorization and Mandatory Sanctions:
+- Category 1: Possession of Unauthorized Paper Materials or Writing on Body / Hall Ticket
+  * Offense: Bringing unauthorized chits, printed notes, textbook cutouts, or formulas written on skin or clothing into the hall, regardless of whether used.
+  * Penalty: Cancellation of performance in the concerned subject; award of 'F' grade for that course.
+- Category 2: Active Collusion, Copying, or Exchanging Question/Answer Booklets
+  * Offense: Copying from peer scripts, passing notes, exchanging question papers with notes, whispering, or using coded signals.
+  * Penalty: Cancellation of all examinations registered in that semester cycle; candidate debarred from the subsequent regular examination window.
+- Category 3: Possession or Usage of Electronic Devices
+  * Offense: Bringing mobile phones, smartwatches, programmable calculators, wireless earphones, bluetooth headsets, or storage drives into the examination desk area.
+  * Penalty: Immediate confiscation of device; cancellation of performance in all subjects of the current session; debarment for one complete academic year (two consecutive semesters).
+- Category 4: Impersonation, Script Tampering, or Threatening Invigilators
+  * Offense: Arranging an impersonator to sit for the exam, removing answer booklet leaves, tampering with barcode stickers, or intimidating examination staff.
+  * Penalty: Immediate expulsion from the institute; registration of formal police complaint (FIR); permanent rustication from the University.
+
+6.2 EDAC Hearing Procedure:
+All accused candidates receive a written notice specifying charges and evidence within 7 working days. The candidate must present their oral and written defense in person before the committee. The EDAC verdict is final and binding once ratified by the Vice Chancellor.
+
+--------------------------------------------------------------------------------
+7. GRACE MARKS STATUTORY POLICY
+--------------------------------------------------------------------------------
+
+The Academic Council authorizes the Controller of Examinations to award grace marks strictly within well-defined, transparent constraints:
+
+7.1 Maximum Allowance:
+- A maximum of 5 grace marks may be awarded to an individual candidate across all theoretical subjects in a single semester examination cycle.
+
+7.2 Distribution Conditions:
+- Grace marks can only be utilized to convert a failing grade ('F') into a bare minimum pass grade ('P', 40% threshold).
+- Grace marks may be distributed across a maximum of two theoretical courses (e.g., 3 marks in Subject A and 2 marks in Subject B, or 5 marks in Subject A).
+- Grace marks cannot be awarded to elevate passing grades (e.g., to promote a student from B+ to A).
+- Strictly zero grace marks are permissible for laboratory courses, seminar presentations, comprehensive viva voce, or capstone project evaluations.
+
+--------------------------------------------------------------------------------
+8. ANSWER SHEET SUBMISSION AND HALL REGULATIONS
+--------------------------------------------------------------------------------
+
+8.1 Verification and Authentication:
+- Candidates must report to the allocated examination hall at least 20 minutes prior to commencement. No entry is permitted after 15 minutes from the start bell.
+- Each candidate must verify the Barcode / OMR sticker affixed to their 32-page main answer booklet and ensure the invigilator signs the cover sheet before writing.
+- Candidates must clearly shade their Roll Number and Course Code using black ballpoint pens only. No markings indicating identity are permitted inside the ruled pages.
+
+8.2 Submission Protocol:
+- No candidate may leave the examination hall during the first 60 minutes or the last 15 minutes of the examination session.
+- Before leaving the desk, the student must count all used and unused pages, securely tie any supplementary sheets using the official thread provided, and physically hand the booklet to the invigilator. Leaving booklets on desks constitutes an automatic disciplinary violation.
+
+--------------------------------------------------------------------------------
+9. SPECIAL PROVISIONS FOR MEDICAL EMERGENCIES
+--------------------------------------------------------------------------------
+
+9.1 Procedure for Unforeseen Medical Crises:
+- If a candidate cannot appear for an examination due to hospitalization, contagious illness, severe physical trauma, or bereavement of an immediate family member, formal notification must be submitted to the CoE office within 48 hours of the scheduled exam.
+- The application must be supported by medical admission and discharge summaries, diagnostic laboratory reports, and a fitness certificate authenticated by the Chief Medical Officer (CMO) of the Institute Health Center.
+
+9.2 Special Sitting Framework:
+- Upon approval by the CoE and Academic Dean, the candidate is awarded an 'I' (Incomplete) grade rather than an 'Ab' grade.
+- A special examination session will be scheduled within 30 days of the start of the following academic term. The student's internal marks remain intact, and no penalty capping is applied to earned letter grades.
+
+--------------------------------------------------------------------------------
+10. RESULT DECLARATION TIMELINE AND NOTIFICATION
+--------------------------------------------------------------------------------
+
+10.1 Publication Window:
+- The Office of the Controller of Examinations operates under a statutory mandate to publish end-semester results within 30 to 45 calendar days following the completion of the final scheduled examination.
+
+10.2 Dissemination Channel:
+- Official provisional grade cards are published exclusively through the authenticated Student ERP Portal.
+- Hard-copy consolidated grade transcripts with anti-counterfeiting holographic seals are issued within 15 working days following the expiry of the revaluation window.
+
+--------------------------------------------------------------------------------
+11. REVALUATION PROCEDURE, ANSWER SCRIPT VIEWING, AND FEE SCHEDULE
+--------------------------------------------------------------------------------
+
+A transparent two-tier verification mechanism ensures fair grading and resolves student evaluation disputes.
+
+11.1 Tier 1: Digital Answer Script Viewing / Photocopy Request:
+- Any student may apply to inspect their evaluated answer script within 7 calendar days of the formal declaration of results.
+- Procedure: Submit an online request via the ERP portal and pay the administrative fee of ₹300 per subject.
+- The digitized evaluated script showing detailed question-wise mark distributions is made visible on the candidate's portal dashboard for review.
+
+11.2 Tier 2: Formal Revaluation Application:
+- If discrepancies, untallied marks, or harsh evaluations are identified, the student may submit a formal revaluation request within 14 calendar days from result declaration.
+- Revaluation Fee: ₹800 per theoretical course.
+- Independent Valuation Protocol: The answer script is sanitized (previous examiner marks masked) and submitted to an independent external evaluator.
+- Resolution Criteria:
+  * If the variance between original and revaluation marks is within 5%, the original mark stands.
+  * If the variance is between 5% and 15%, the higher mark is awarded.
+  * If the variance exceeds 15%, the script is referred to a third subject expert (Joint Chief Examiner), and the average of the two highest marks is adopted.
+  * Full Fee Refund: If revaluation results in a positive grade improvement of two or more letter grades (e.g., from C to A), 100% of the revaluation fee is refunded to the student's registered bank account.
+
+[END OF DOCUMENT - 02_EXAMINATION_GUIDELINES.TXT - SAMPLE MATERIAL]

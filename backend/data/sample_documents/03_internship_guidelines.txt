@@ -1,0 +1,155 @@
+[SAMPLE DOCUMENT - FOR DEMONSTRATION PURPOSES ONLY]
+
+================================================================================
+INSTITUTE OF ADVANCED TECHNOLOGY AND SCIENCE
+OFFICE OF TRAINING AND PLACEMENT (T&P) & INDUSTRY RELATIONS
+POLICY MANUAL FOR MANDATORY UNDERGRADUATE INTERNSHIPS
+ACADEMIC YEAR 2024–2025 (FOR B.TECH FINAL YEAR STUDENTS)
+[SAMPLE DOCUMENT - FOR DEMONSTRATION PURPOSES ONLY]
+================================================================================
+
+1. PHILOSOPHY AND OBJECTIVES OF INDUSTRY IMMERSION
+
+Practical industry experience and high-impact scientific research are essential components of modern engineering education. The Institute of Advanced Technology and Science mandates a comprehensive full-semester internship program designed to bridge the gap between theoretical classroom pedagogy and real-world industrial software engineering, data infrastructure, and advanced technology domains.
+
+This policy document codifies the institutional prerequisites, registration workflows, compliance standards, reporting milestones, evaluation frameworks, and code of conduct governing all final-year undergraduate engineering internships.
+
+--------------------------------------------------------------------------------
+2. STUDENT ELIGIBILITY CRITERIA & PREREQUISITES
+--------------------------------------------------------------------------------
+
+To protect academic standards and ensure participating students possess the technical maturity required for corporate and research environments, strict eligibility benchmarks are enforced without exception.
+
+2.1 Cumulative Grade Point Average (CGPA) Thresholds:
+- Industry Internship: A minimum CGPA of 6.50 on a 10.0 scale is mandatory at the time of application and registration. Students pursuing software development, systems engineering, DevOps, cloud operations, consulting, or technical product roles in corporate entities must maintain this benchmark.
+- Research Internship: A minimum CGPA of 7.00 on a 10.0 scale is mandatory for students pursuing academic research internships at premier institutions (e.g., IITs, IISc, TIFR, national research laboratories, CSIR laboratories, or recognized international partner universities).
+- Underperformance Implications: Students who do not satisfy the minimum CGPA requirement (below 6.50) are not permitted to register for off-campus internships. Such students are required to remain on campus to complete capstone coursework, remedial tutorials, and an in-house faculty-supervised project.
+
+2.2 Academic Credit Completion Threshold:
+- A student must have earned a minimum of 120 cumulative academic credits prior to the commencement of the internship semester.
+- This requirement guarantees that candidates have successfully completed all core engineering, mathematics, systems programming, algorithms, and departmental foundational laboratories scheduled across Semesters 1 through 6.
+
+2.3 Backlog Status Requirements:
+- No active backlogs are allowed during the internship semester.
+- A candidate must have cleared all prior subject failures, laboratory backlogs, and incomplete grades before the semester registration cutoff date.
+- Any student with an uncleared 'F' grade is disqualified from departing campus for full-term industry placement and must utilize the semester to register for remedial classes and clear outstanding subjects.
+
+--------------------------------------------------------------------------------
+3. DURATION, SCHEDULING, AND CREDIT ALLOCATION
+--------------------------------------------------------------------------------
+
+3.1 Program Duration:
+- The internship requires a mandatory full-time duration of exactly 6 months (a minimum of 24 consecutive weeks) during the final year of study (typically Semester 8).
+- Start Date: Commences during the first week of January and concludes during the final week of June.
+- Minimum Working Hours: Candidates must log a minimum of 40 professional hours per week in accordance with standard industry practice.
+
+3.2 Credit Conversion and Degree Fulfillment:
+- Successful completion of the full-term internship carries 6 academic credits.
+- These 6 credits directly satisfy the Semester 8 Capstone Practicum requirement.
+- Incomplete internships, early termination, or failure to secure passing evaluation scores will result in withholding of the degree until an equivalent credit module is satisfied.
+
+--------------------------------------------------------------------------------
+4. REGISTRATION AND APPROVAL PROCESS WITH THE TRAINING & PLACEMENT CELL
+--------------------------------------------------------------------------------
+
+All internship placements—whether secured through campus recruitment drives or self-procured off-campus initiatives—must undergo formal vetting and approval by the Training and Placement (T&P) Cell.
+
+4.1 Stage-by-Stage Workflow:
+- Step 1: Offer Submission on T&P Portal
+  Students must log into the Institute Placement Portal and upload their verified written offer letter at least 21 calendar days before the anticipated start date.
+- Step 2: Role and Organization Vetting
+  The T&P Industry Liaison Committee examines the hiring organization's corporate credentials, job profile, technical domain, mentor allocation, and compliance with institutional standards.
+- Step 3: No Objection Certificate (NOC) Issuance
+  Upon committee approval, the Head of Training and Placement and the Department Head issue an official institutional NOC and Bonafide Recommendation Letter. Students are prohibited from signing corporate agreements or reporting to workplaces without this verified NOC.
+- Step 4: Academic Faculty Mentor Assignment
+  The Department Head assigns a full-time CSE faculty mentor to oversee each interning student. The academic mentor acts as the primary institutional liaison with the host company.
+
+--------------------------------------------------------------------------------
+5. DOCUMENTATION MANDATES AND REPORTING TIMELINE
+--------------------------------------------------------------------------------
+
+Students are held strictly accountable for maintaining and submitting authenticated documentation throughout their internship tenure.
+
+5.1 Required Documents and Submission Milestones:
+- Official Corporate Offer Letter: Uploaded during initial portal registration. Must explicitly mention job title, work address, remuneration, duration, and corporate supervisor contact details.
+- Formal Joining Report: Within 7 calendar days of reporting to the corporate facility, the candidate must submit the official Joining Report countersigned and stamped by the designated corporate supervisor or Human Resources manager.
+- Monthly Progress Reports (MPRs):
+  * Submitted through the portal at 30-day intervals (Month 1, Month 2, Month 3, Month 4, Month 5).
+  * Each MPR must summarize weekly engineering tasks, technologies utilized, challenges encountered, and architectural contributions.
+  * Every report must bear the digital signature and corporate email verification of the industry mentor.
+- Comprehensive Final Internship Project Report: Submitted 14 days prior to the final academic defense. Must adhere to IEEE technical formatting, including problem formulation, system design, architectural diagrams, implementation specifics, testing methodologies, performance metrics, and conclusion.
+- Corporate Completion Certificate and Relieving Letter: Formal certification from company HR certifying completion of the full 6-month term with satisfactory professional conduct.
+
+--------------------------------------------------------------------------------
+6. STIPEND AND COMPENSATION GUIDELINES
+--------------------------------------------------------------------------------
+
+The Institute values student engineering contributions and actively discourages uncompensated labor within industrial sectors.
+
+6.1 Corporate Stipend Policy:
+- Minimum Recommended Stipend: The Institute recommends and prioritizes commercial partner organizations offering a minimum monthly stipend of ₹10,000 (INR Ten Thousand per month).
+- Industry Benchmarks: Reputed tier-1 technology multinationals and venture-backed scale-ups routinely provide monthly compensation between ₹25,000 and ₹85,000.
+- Research Exemptions: Non-profit scientific research institutions (e.g., premier central universities, defense research laboratories, DRDO, ISRO, CSIR) that operate under statutory fellowship guidelines or unpaid national scholarship grants are exempted from the corporate stipend mandate, provided the research project receives written academic endorsement from the Department Head.
+
+--------------------------------------------------------------------------------
+7. EVALUATION ARCHITECTURE AND GRADING RUBRIC
+--------------------------------------------------------------------------------
+
+Internship grading is conducted under a multi-dimensional rubric that integrates continuous employer feedback, technical rigor, and oral communication skills.
+
+Total Marks: 100 Marks (Converted to Letter Grades according to Institutional Grading Scales)
+
+7.1 Component Breakdown:
+- Component 1: Company Industry Mentor Evaluation (40% Weightage - 40 Marks)
+  * Evaluated directly by the workplace reporting manager/supervisor.
+  * Assessment parameters: Professional work ethic, dependability, technical problem-solving ability, code quality, collaboration in agile teams, and project completion.
+  * Submitted through a confidential digital appraisal form dispatched directly to the mentor's corporate email address.
+- Component 2: Comprehensive Project Report and Documentation (40% Weightage - 40 Marks)
+  * Evaluated by a Departmental Examination Panel comprising internal senior faculty members.
+  * Assessment parameters: Depth of engineering methodology, adherence to architectural design patterns, verification/testing completeness, research rigor, and plagiarism compliance (Turnitin similarity score must be under 15%).
+- Component 3: Final Presentation and Viva Voce Defense (20% Weightage - 20 Marks)
+  * Conducted at the campus or via secure video conference before an evaluation board.
+  * Assessment parameters: Clarity of technical presentation, live demonstration of software or system deliverables, and oral defense during challenging question-and-answer examinations.
+
+--------------------------------------------------------------------------------
+8. PERMITTED VERSUS RESTRICTED COMPANY CATEGORIES
+--------------------------------------------------------------------------------
+
+To safeguard students against substandard working environments or fraudulent practices, the Institute classifies prospective host organizations into permitted and restricted tiers.
+
+8.1 Permitted Company Categories:
+- Tier A Corporates: Registered public limited and private limited enterprises with documented audited accounts, active corporate domains, and established technical engineering divisions.
+- Recognized Technology Startups: Venture-backed startups funded by recognized angel syndicates or VC funds, or companies officially certified by DPIIT (Department for Promotion of Industry and Internal Trade).
+- Government and Academic Research Establishments: Central and state scientific research laboratories (CSIR, DRDO, ISRO, CDAC), IITs, IISc, NITs, and accredited foreign universities.
+
+8.2 Restricted and Prohibited Company Categories:
+- Commercial Training Institutes / Bootcamps: Any commercial academy or coaching institute that charges students a training fee, course fee, or administrative fee while offering an "internship certificate" is strictly banned. Submitting an offer from such entities is treated as academic fraud.
+- Unregistered Proprietary Firms & Shell Entities: Unregistered single-person outfits lacking formal corporate infrastructure, verifiable physical business addresses, or legitimate corporate email domains.
+- Multi-Level Marketing (MLM) and Commission-Based Sales Agencies: Any role emphasizing direct marketing, tele-calling, or multi-level product distribution without core software engineering or research substance.
+- Family-Owned Businesses: Work arrangements in proprietary enterprises owned by immediate relatives or family members are prohibited to prevent conflicts of interest and biased evaluations.
+
+--------------------------------------------------------------------------------
+9. WORKPLACE MODALITY: REMOTE VERSUS ON-SITE INTERNSHIPS
+--------------------------------------------------------------------------------
+
+9.1 On-Site Internship Preference:
+- Physical on-site placement at corporate office complexes, engineering centers, or research laboratories is strongly favored. In-person immersion provides mentorship, collaborative dynamics, and professional workplace assimilation.
+
+9.2 Remote (Work-From-Home) Policy:
+- Remote or virtual internships are permitted only under strict exceptions and require explicit prior written sanction from the Dean of Industry Relations.
+- Remote Eligibility Conditions:
+  * The host company must provide a formal remote employment policy confirming that full-time regular software engineers in that division operate remotely.
+  * The student must be provisioned with an official corporate domain email account, enterprise VPN credentials, and project tracking access (e.g., Jira, GitHub Enterprise).
+  * The corporate supervisor must furnish a written undertaking committing to weekly sprint reviews, daily stand-up participation, and monthly digital progress verification.
+  * Any student discovered undertaking unauthorized freelance work or multiple concurrent remote engagements will face immediate disciplinary revocation of their internship credentials.
+
+--------------------------------------------------------------------------------
+10. CODE OF ETHICS, NON-DISCLOSURE AGREEMENTS, AND DISCIPLINARY ACTIONS
+--------------------------------------------------------------------------------
+
+Students represent the Institute of Advanced Technology and Science within the global technical community and are expected to uphold the highest standards of professional ethics.
+
+- Non-Disclosure Agreements (NDAs): When host companies require NDAs to safeguard proprietary intellectual property, students must seek Department approval. Reports submitted to the Institute must mask proprietary trade secrets and API keys while retaining general architectural and algorithmic descriptions.
+- Professional Misconduct: Absenteeism without corporate leave authorization, intellectual property theft, code plagiarism, workplace harassment, or premature departure without written concurrence of both company and Institute will trigger immediate cancellation of the 6-credit enrollment, awarding of an 'F' grade, and potential disqualification from institutional placement privileges.
+
+[END OF DOCUMENT - 03_INTERNSHIP_GUIDELINES.TXT - SAMPLE MATERIAL]
