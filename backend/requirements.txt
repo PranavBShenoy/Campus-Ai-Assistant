@@ -1,7 +1,4 @@
-﻿# CampusAI Backend Dependencies
-# Python 3.9+ required
-
-# Web framework
+﻿# Web framework
 fastapi==0.111.0
 uvicorn[standard]==0.29.0
 python-multipart==0.0.9
@@ -22,10 +19,14 @@ langchain-openai==0.1.8
 langchain-huggingface==0.0.3
 langgraph==0.1.1
 
-# Vector store (matches the persisted database schema shipped with the app)
+# Vector store
 chromadb==1.5.9
 
-# Embeddings (local, no API key required)
+# CPU-only PyTorch for local embeddings
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch==2.2.2+cpu
+
+# Embeddings
 sentence-transformers==2.7.0
 
 # Document processing
@@ -45,5 +46,5 @@ passlib[bcrypt]==1.7.4
 bcrypt==4.0.1
 PyJWT==2.8.0
 
+# Email validation
 email-validator==2.1.1
-
