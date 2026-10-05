@@ -31,7 +31,7 @@ ENV CONVERSATION_HISTORY_WINDOW=10
 ENV MAX_FILE_SIZE_MB=50
 ENV UPLOAD_DIR=./data/uploads
 
-ENV FRONTEND_URL=http://localhost:3000
+ENV FRONTEND_URL=https://campus-ai-assistant-bay.vercel.app
 ENV API_HOST=0.0.0.0
 ENV DEBUG=false
 ENV DEMO_MODE=false
