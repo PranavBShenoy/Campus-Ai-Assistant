@@ -22,9 +22,9 @@ langgraph==0.1.1
 # Vector store
 chromadb==1.5.9
 
-# CPU-only PyTorch for local embeddings
---extra-index-url https://download.pytorch.org/whl/cpu
-torch==2.2.2+cpu
+# PyTorch for local embeddings
+# Use a version available for the active Python runtime in this environment.
+torch==2.9.1
 
 # Embeddings
 sentence-transformers==2.7.0
@@ -45,6 +45,9 @@ numpy<2.0
 passlib[bcrypt]==1.7.4
 bcrypt==4.0.1
 PyJWT==2.8.0
+
+# UI
+streamlit==1.38.0
 
 # Email validation
 email-validator==2.1.1
